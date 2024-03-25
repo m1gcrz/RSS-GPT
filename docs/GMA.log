@@ -25,3 +25,9 @@ Append: [Ecuador"s youngest mayor found shot to death alongside advisor](https:/
 Append: [Ano ang kahalagahan ng Visita Iglesia sa mga mananampalataya?](https://www.gmanetwork.com/news/topstories/ulatfilipino/901533/ano-ang-kahalagahan-ng-visita-iglesia-sa-mga-mananampalataya/story/)
 append_entries: 15
 Finish: 2024-03-25 05:55:37.722647
+------------------------------------------------------
+Started: 2024-03-25 06:15:04.079750
+Existing_entries: 15
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+append_entries: 0
+Finish: 2024-03-25 06:15:04.924257
