@@ -215,3 +215,20 @@ Append: [Florida's DeSantis signs law restricting social media for people under 
 Append: [Pertussis outbreak declared in Iloilo City](https://www.gmanetwork.com/news/topstories/regions/901660/pertussis-outbreak-declared-in-iloilo-city/story/)
 append_entries: 8
 Finish: 2024-03-26 04:12:50.983104
+------------------------------------------------------
+Started: 2024-03-26 06:14:50.082789
+Existing_entries: 73
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Villanueva: Senate on track to amend rules for Cha-cha plenary approval](https://www.gmanetwork.com/news/topstories/nation/901693/villanueva-senate-on-track-to-amend-rules-for-cha-cha-plenary-approval/story/)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [BI deports two alleged 'Luffy" gang members](https://www.gmanetwork.com/news/topstories/nation/901687/bi-deports-two-alleged-luffy-gang-members/story/)
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [NSA Año urges ex-rebels to apply for gov't amnesty program](https://www.gmanetwork.com/news/topstories/nation/901684/nsa-ano-urges-ex-rebels-to-apply-for-gov-t-amnesty-program/story/)
+Append: [DOST: El Niño effects to be felt until August](https://www.gmanetwork.com/news/topstories/nation/901680/dost-el-nino-effects-to-be-felt-until-august/story/)
+Append: [Gatchalian smells conspiracy between BI officers, foreign fugitives in POGOs](https://www.gmanetwork.com/news/topstories/nation/901679/gatchalian-smells-conspiracy-between-bi-officers-foreign-fugitives-in-pogos/story/)
+append_entries: 5
+Finish: 2024-03-26 06:15:05.605081
