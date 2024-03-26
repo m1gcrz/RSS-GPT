@@ -326,3 +326,20 @@ Append: [Resorts in protected areas closed by Baras LGU](https://www.gmanetwork.
 Append: [Manila LGU declares half-day work, classes on Holy Wednesday](https://www.gmanetwork.com/news/topstories/metro/901751/manila-lgu-declares-half-day-work-on-holy-wednesday/story/)
 append_entries: 7
 Finish: 2024-03-26 16:13:56.423369
+------------------------------------------------------
+Started: 2024-03-26 18:13:33.499155
+Existing_entries: 112
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [Cebu Doc graduate tops March 2024 Medical Technologists licensure exams](https://www.gmanetwork.com/news/topstories/nation/901762/cebu-doc-graduate-tops-march-2024-medical-technologists-licensure-exams/story/)
+Token length: 83
+Summarized using GPT-3.5-turbo
+Append: [Provinces offer Holy Week attractions for devotees](https://www.gmanetwork.com/news/topstories/regions/901745/provinces-offer-holy-week-attractions-for-devotees/story/)
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [Barbecue style slow-smoked meat na natikman sa US at ginawang negosyo sa Pilipinas, pumatok](https://www.gmanetwork.com/news/topstories/ulatfilipino/901759/barbecue-style-slow-smoked-meat-na-natikman-sa-us-at-ginawang-negosyo-sa-pilipinas-pumatok/story/)
+Append: [More than 63,000 people dead or missing while migrating over last decade, IOM says](https://www.gmanetwork.com/news/topstories/world/901728/more-than-63-000-people-dead-or-missing-while-migrating-over-last-decade-iom-says/story/)
+Append: [Protecting Palestinians a moral imperative, Pentagon chief tells Israeli counterpart](https://www.gmanetwork.com/news/topstories/world/901760/protecting-palestinians-a-moral-imperative-pentagon-chief-tells-israeli-counterpart/story/)
+append_entries: 5
+Finish: 2024-03-26 18:13:50.335094
