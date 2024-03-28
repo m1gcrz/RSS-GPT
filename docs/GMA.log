@@ -573,3 +573,12 @@ Summarized using GPT-3.5-turbo
 Append: [Near-record storms in US expected this Atlantic hurricane season](https://www.gmanetwork.com/news/topstories/world/901881/near-record-storms-in-us-expected-this-atlantic-hurricane-season/story/)
 append_entries: 3
 Finish: 2024-03-28 00:50:00.843719
+------------------------------------------------------
+Started: 2024-03-28 02:21:01.336298
+Existing_entries: 187
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [Two bodies found as Baltimore bridge collapse moves from recovery to salvage](https://www.gmanetwork.com/news/topstories/world/901891/two-bodies-found-as-baltimore-bridge-collapse-moves-from-recovery-to-salvage/story/)
+append_entries: 1
+Finish: 2024-03-28 02:21:05.350820
