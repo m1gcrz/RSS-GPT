@@ -717,3 +717,9 @@ Summarized using GPT-3.5-turbo
 Append: [Mga sasakyan na nakaparada sa daluyan ng baha, nalubog nang bumuhos ang malakas na ulan sa Baguio](https://www.gmanetwork.com/news/topstories/ulatfilipino/901978/mga-sasakyan-na-nakaparada-sa-daluyan-ng-baha-nalubog-nang-bumuhos-ang-malakas-na-ulan-sa-baguio/story/)
 append_entries: 3
 Finish: 2024-03-28 18:14:07.539566
+------------------------------------------------------
+Started: 2024-03-28 20:12:34.281580
+Existing_entries: 227
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+append_entries: 0
+Finish: 2024-03-28 20:12:35.627179
