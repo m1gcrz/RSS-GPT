@@ -856,3 +856,15 @@ Summarized using GPT-3.5-turbo
 Append: [Moscow court puts ninth suspect in concert hall attack under pre-trial custody](https://www.gmanetwork.com/news/topstories/content/902045/moscow-court-puts-ninth-suspect-in-concert-hall-attack-under-pre-trial-custody/story/)
 append_entries: 1
 Finish: 2024-03-29 20:12:01.792650
+------------------------------------------------------
+Started: 2024-03-29 22:10:44.965294
+Existing_entries: 248
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [Blackouts hit Ukraine regions after Russian air attack](https://www.gmanetwork.com/news/topstories/world/902048/blackouts-hit-ukraine-regions-after-russian-air-attack/story/)
+Token length: 366
+Summarized using GPT-3.5-turbo
+Append: [Pope leads Good Friday service, skips procession](https://www.gmanetwork.com/news/topstories/world/902047/pope-leads-good-friday-service-skips-procession/story/)
+append_entries: 2
+Finish: 2024-03-29 22:10:51.805823
