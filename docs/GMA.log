@@ -808,3 +808,18 @@ Existing_entries: 240
 Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
 append_entries: 0
 Finish: 2024-03-29 12:20:16.037439
+------------------------------------------------------
+Started: 2024-03-29 14:09:54.617119
+Existing_entries: 240
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 84
+Summarized using GPT-3.5-turbo
+Append: [700,000 devotees flock to Quiapo Church on Good Friday](https://www.gmanetwork.com/news/topstories/metro/902035/700-000-devotees-flock-to-quiapo-church-on-good-friday/story/)
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [Flood hits Davao, tornado destroys houses in Maguindanao del Sur](https://www.gmanetwork.com/news/topstories/regions/902033/flood-hits-davao-tornado-destroys-houses-in-maguindanao-del-sur/story/)
+Token length: 96
+Summarized using GPT-3.5-turbo
+Append: [Taal emits highest amount of sulfur dioxide in 2024](https://www.gmanetwork.com/news/topstories/regions/902032/taal-emits-highest-amount-sulfur-dioxide-in-2024/story/)
+append_entries: 3
+Finish: 2024-03-29 14:10:07.932845
