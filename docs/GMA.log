@@ -1096,3 +1096,19 @@ Summarized using GPT-3.5-turbo
 Append: [Carpio: Quiboloy has 'no choice" but to respond to Senate subpoena](https://www.gmanetwork.com/news/topstories/nation/902154/carpio-quiboloy-has-no-choice-but-to-respond-to-senate-subpoena/story/)
 append_entries: 2
 Finish: 2024-03-31 10:11:35.281160
+------------------------------------------------------
+Started: 2024-03-31 12:18:27.657444
+Existing_entries: 296
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 221
+Summarized using GPT-3.5-turbo
+Append: [King Charles attends Easter Sunday service, greets well-wishers](https://www.gmanetwork.com/news/topstories/world/902166/king-charles-attends-easter-sunday-service-greets-well-wishers/story/)
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [PITX records 83K passengers on Easter as Holy Week travelers return to NCR](https://www.gmanetwork.com/news/topstories/metro/902163/pitx-records-83k-passengers-on-easter-as-holy-week-travelers-return-to-ncr/story/)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [Pope Francis, in Easter address, calls for Gaza ceasefire](https://www.gmanetwork.com/news/topstories/world/902160/pope-francis-in-easter-address-calls-for-gaza-ceasefire/story/)
+Append: [Woman arrested for trying to smuggle drugs in Taguig jail](https://www.gmanetwork.com/news/topstories/metro/902158/woman-arrested-for-trying-to-smuggle-drugs-in-taguig-jail/story/)
+append_entries: 4
+Finish: 2024-03-31 12:18:36.239747
