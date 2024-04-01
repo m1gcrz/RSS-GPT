@@ -1299,3 +1299,21 @@ Summarized using GPT-3.5-turbo
 Append: [22-anyos na babae, patay matapos saksakin sa leeg sa Davao City](https://www.gmanetwork.com/news/topstories/ulatfilipino/902262/22-anyos-na-babae-patay-matapos-saksakin-sa-leeg-sa-davao-city/story/)
 append_entries: 3
 Finish: 2024-04-01 14:10:47.242016
+------------------------------------------------------
+Started: 2024-04-01 16:14:03.024337
+Existing_entries: 347
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 377
+Summarized using GPT-3.5-turbo
+Append: [Mga bingi, kayang makarinig sa pamamagitan ng hilot?](https://www.gmanetwork.com/news/topstories/ulatfilipino/902273/mga-bingi-kayang-makarinig-sa-pamamagitan-ng-hilot/story/)
+Token length: 108
+Summarized using GPT-3.5-turbo
+Append: [Baguio City govt confirms 5 pertussis cases](https://www.gmanetwork.com/news/topstories/regions/902272/baguio-city-govt-confirms-5-pertussis-cases/story/)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [Duterte had no deal with China over Ayungin --Panelo](https://www.gmanetwork.com/news/topstories/nation/902271/duterte-had-no-deal-with-china-over-ayungin-panelo/story/)
+Append: [DA to vaccinate dogs, cats to curb rabies cases in Marinduque livestock](https://www.gmanetwork.com/news/topstories/regions/902270/da-to-vaccinate-dogs-cats-to-curb-rabies-cases-in-marinduque-livestock/story/)
+Append: [Face-to-face class sa ilang paaralan, suspendido sa Martes, April 2, 2024](https://www.gmanetwork.com/news/topstories/ulatfilipino/902269/face-to-face-class-sa-ilang-paaralan-suspendido-sa-martes-april-2-2024/story/)
+Append: [Inmate designs 'arcade-like' game at NBP](https://www.gmanetwork.com/news/topstories/metro/902268/inmate-designs-arcade-like-game-at-nbp/story/)
+append_entries: 6
+Finish: 2024-04-01 16:14:11.321026
