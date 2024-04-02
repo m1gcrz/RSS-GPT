@@ -1373,3 +1373,21 @@ Append: [Closure of Mt. Apo Natural Park extended due to El Niño](https://www.g
 Append: [Israeli airstrike kills five from World Central Kitchen, says Hamas-run media](https://www.gmanetwork.com/news/topstories/world/902287/israeli-airstrike-kills-five-from-world-central-kitchen-says-hamas-run-media/story/)
 append_entries: 5
 Finish: 2024-04-02 00:54:22.287395
+------------------------------------------------------
+Started: 2024-04-02 02:20:59.636878
+Existing_entries: 365
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [28 barangays under state of calamity as Cebu City faces water crisis amid El Niño](https://www.gmanetwork.com/news/topstories/regions/902302/28-barangays-under-state-of-calamity-as-cebu-city-faces-water-crisis-amid-el-nino/story/)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [Marcos orders creation of organizing council for PH hosting of ASEAN 2026](https://www.gmanetwork.com/news/topstories/nation/902300/marcos-orders-creation-of-organizing-council-for-ph-hosting-of-asean-2026/story/)
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: [TRB starts probe into malfunctioning RFID](https://www.gmanetwork.com/news/topstories/nation/902299/trb-starts-probe-into-malfunctioning-rfid/story/)
+Append: [North Korea fires suspected intermediate-range ballistic missile](https://www.gmanetwork.com/news/topstories/world/902297/north-korea-fires-suspected-intermediate-range-ballistic-missile/story/)
+Append: [Israel airstrike on Gaza kills foreign aid workers --Hamas-run media office](https://www.gmanetwork.com/news/topstories/world/902296/israel-airstrike-on-gaza-kills-foreign-aid-workers-hamas-run-media-office/story/)
+Append: [Marcos orders creation of right-of-way committee for railway projects](https://www.gmanetwork.com/news/topstories/nation/902295/marcos-orders-creation-of-right-of-way-committee-for-railway-projects/story/)
+append_entries: 6
+Finish: 2024-04-02 02:21:09.285501
