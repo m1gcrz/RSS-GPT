@@ -1536,3 +1536,19 @@ Append: [Daytime fire at Istanbul nightclub kills at least 27 people](https://ww
 Append: [Pulse Asia: Erwin Tulfo, Tito Sotto, Rodrigo Duterte top latest senatorial poll](https://www.gmanetwork.com/news/topstories/nation/902402/pulse-asia-erwin-tulfo-tito-sotto-rodrigo-duterte-top-latest-senatorial-poll/story/)
 append_entries: 10
 Finish: 2024-04-02 16:14:13.964744
+------------------------------------------------------
+Started: 2024-04-02 18:13:37.727743
+Existing_entries: 432
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [Manny Villar, tanging Pinoy na pasok sa top 200 list ng pinakamayayamang tao sa mundo ng Forbes Magazine](https://www.gmanetwork.com/news/topstories/ulatfilipino/902419/manny-villar-tanging-pinoy-na-pasok-sa-top-200-list-ng-pinakamayayamang-tao-sa-mundo-ng-forbes-ma/story/)
+Token length: 256
+Summarized using GPT-3.5-turbo
+Append: [Bakit lumulubog pa rin sa baha ang Metro Manila kapag umulan kahit may mga flood control project?](https://www.gmanetwork.com/news/topstories/ulatfilipino/902416/bakit-lumulubog-pa-rin-sa-baha-ang-metro-manila-kapag-umulan-kahit-may-mga-flood-control-project/story/)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [Pulse Asia: Marcos approval down 13 points, Sara's by 7](https://www.gmanetwork.com/news/topstories/nation/902417/pulse-asia-marcos-approval-down-13-points-sara-s-by-7/story/)
+Append: [Biden speaks to China"s Xi on Taiwan, Ukraine, Philippines](https://www.gmanetwork.com/news/topstories/world/902414/biden-speaks-to-china-s-xi-on-taiwan-ukraine-philippines/story/)
+append_entries: 4
+Finish: 2024-04-02 18:13:48.520597
