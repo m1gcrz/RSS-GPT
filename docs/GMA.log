@@ -1764,3 +1764,9 @@ Summarized using GPT-3.5-turbo
 Append: [Chinese fugitives found at Tarlac scam hub](https://www.gmanetwork.com/news/topstories/regions/902544/chinese-fugitives-found-at-tarlac-scam-hub/story/)
 append_entries: 1
 Finish: 2024-04-03 20:12:57.452561
+------------------------------------------------------
+Started: 2024-04-03 22:09:56.226389
+Existing_entries: 504
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+append_entries: 0
+Finish: 2024-04-03 22:09:56.936576
