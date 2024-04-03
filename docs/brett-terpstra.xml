@@ -4,14 +4,15 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>On using a CDN</title>
 <link>https://brett.trpstra.net/link/535/16638813/on-using-a-cdn</link>
 <guid>https://brett.trpstra.net/link/535/16638813/on-using-a-cdn</guid>
 <content:encoded><![CDATA[
-<div> CDN, CloudFront, performance improvements, versioning, priming<br>
-<br>
-Summary:<br>
+<div> CDN, CloudFront, performance improvements, versioning, priming<br />
+<br />
+Summary:<br />
 Setting up a CDN, like CloudFront, can significantly improve the performance of a website by serving assets faster from optimized servers closer to end users. It is affordable and offers fast speeds. Versioning files in a CDN is important to ensure updated content is served, and cache busting can be done using query strings or server-side configurations. Priming the CDN by making headers-only curl calls can help speed up the caching process for new assets. Utilizing a CDN like CloudFront for serving images, CSS, and JavaScript can lead to better user experience and faster load times on websites. If you want to know more about setting up a CDN for your website or optimizing performance with Jekyll, the author is willing to share their setup. Remember to like and share the post to support the author. <div>
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
@@ -139,9 +140,7 @@ Setting up a CDN, like CloudFront, can significantly improve the performance of 
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16638813.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-04-02T16:03:00-05:00</pubDate>
-<pubDate>2024-04-02T16:03:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Automating the Dimspirations workflow</title>
 <link>https://brett.trpstra.net/link/535/16637190/automating-the-dimspirations-workflow</link>
