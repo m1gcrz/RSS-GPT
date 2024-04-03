@@ -1755,3 +1755,12 @@ Append: [UK faces pressure to stop selling weapons to Israel after aid workers k
 Append: [Man nabbed for allegedly raping minor stepdaughter since 2015](https://www.gmanetwork.com/news/topstories/nation/902564/man-raping-minor-stepdaughter-since-2015-gets-her-pregnant/story/)
 append_entries: 5
 Finish: 2024-04-03 18:13:53.573787
+------------------------------------------------------
+Started: 2024-04-03 20:12:54.150519
+Existing_entries: 503
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [Chinese fugitives found at Tarlac scam hub](https://www.gmanetwork.com/news/topstories/regions/902544/chinese-fugitives-found-at-tarlac-scam-hub/story/)
+append_entries: 1
+Finish: 2024-04-03 20:12:57.452561
