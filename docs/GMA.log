@@ -1991,3 +1991,12 @@ Summarized using GPT-3.5-turbo
 Append: [Trump suffers twin setbacks as judges reject calls to dismiss charges](https://www.gmanetwork.com/news/topstories/world/902715/trump-suffers-twin-setbacks-as-judges-reject-calls-to-dismiss-charges/story/)
 append_entries: 3
 Finish: 2024-04-05 00:50:33.364056
+------------------------------------------------------
+Started: 2024-04-05 02:18:21.569765
+Existing_entries: 575
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 271
+Summarized using GPT-3.5-turbo
+Append: [Taiwan searches for 18 still missing after earthquake](https://www.gmanetwork.com/news/topstories/world/902726/taiwan-searches-for-18-still-missing-after-earthquake/story/)
+append_entries: 1
+Finish: 2024-04-05 02:18:25.439052
