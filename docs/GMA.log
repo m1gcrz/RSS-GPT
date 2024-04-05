@@ -2000,3 +2000,19 @@ Summarized using GPT-3.5-turbo
 Append: [Taiwan searches for 18 still missing after earthquake](https://www.gmanetwork.com/news/topstories/world/902726/taiwan-searches-for-18-still-missing-after-earthquake/story/)
 append_entries: 1
 Finish: 2024-04-05 02:18:25.439052
+------------------------------------------------------
+Started: 2024-04-05 04:15:56.888940
+Existing_entries: 576
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [Senate urged to probe Yulo-Loyzaga 'conflict of interest'; DENR chief says allegations 'false'](https://www.gmanetwork.com/news/topstories/nation/902737/senate-denr-conflict-of-interest/story/)
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: ['Chinese' firms disguised as American, European recruiting PH military -- DICT](https://www.gmanetwork.com/news/topstories/nation/902740/chinese-firms-disguised-as-american-european-recruiting-ph-military-dict/story/)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [WHO: 2 out of 5 in Western Pacific cannot access essential health services](https://www.gmanetwork.com/news/topstories/nation/902739/who-2-out-of-5-people-western-pacific-no-access-to-health-service/story/)
+Append: [DFA exec: China aggression in WPS to be tackled in US-PH-Japan trilateral meet](https://www.gmanetwork.com/news/topstories/nation/902734/dfa-exec-china-aggression-in-wps-to-be-tackled-in-us-ph-japan-trilateral-meet/story/)
+append_entries: 4
+Finish: 2024-04-05 04:16:02.799342
