@@ -2181,3 +2181,19 @@ Summarized using GPT-3.5-turbo
 Append: [Philippines, Australia, Japan, US set to conduct maritime activity on April 7](https://www.gmanetwork.com/news/topstories/nation/902833/philippines-australia-japan-us-set-to-conduct-maritime-activity-on-april-7/story/)
 append_entries: 1
 Finish: 2024-04-06 04:14:03.264567
+------------------------------------------------------
+Started: 2024-04-06 06:13:39.051073
+Existing_entries: 629
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [New DPWH district office created in Zamboanga City](https://www.gmanetwork.com/news/topstories/regions/902845/new-dpwh-district-office-created-in-zamboanga-city/story/)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [DA won't recommend rice price cap, SRP despite 15-year high rice inflation](https://www.gmanetwork.com/news/topstories/nation/902847/da-won-t-recommend-rice-price-cap-srp-despite-15-year-high-rice-inflation/story/)
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [US, China hold military talks in Hawaii](https://www.gmanetwork.com/news/topstories/world/902839/us-china-hold-military-talks-in-hawaii/story/)
+Append: [China Coast Guard ships tail, surround PH vessels near Recto Bank](https://www.gmanetwork.com/news/topstories/nation/902837/china-coast-guard-ships-tail-surround-ph-vessels-near-recto-bank/story/)
+append_entries: 4
+Finish: 2024-04-06 06:13:46.270379
