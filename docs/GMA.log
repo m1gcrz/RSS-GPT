@@ -2149,3 +2149,20 @@ Summarized using GPT-3.5-turbo
 Append: [Earthquake of magnitude 6.0 strikes Tonga Islands, GFZ says](https://www.gmanetwork.com/news/topstories/world/902819/earthquake-of-magnitude-6-0-strikes-tonga-islands-gfz-says/story/)
 append_entries: 3
 Finish: 2024-04-05 22:11:06.049081
+------------------------------------------------------
+Started: 2024-04-06 00:48:34.053896
+Existing_entries: 623
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 102
+Summarized using GPT-3.5-turbo
+Append: [Sunog, sumiklab sa Barangay Parang, Marikina](https://www.gmanetwork.com/news/topstories/ulatfilipino/902826/sunog-sumiklab-sa-barangay-parang-marikina/story/)
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [Flood-hit Sydney residents urged to go to higher ground after torrential rains](https://www.gmanetwork.com/news/topstories/world/902825/flood-hit-sydney-residents-urged-to-go-to-higher-ground-after-torrential-rains/story/)
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [Ukraine's Zaporizhzhia hit by Russian missiles, four dead, 20 injured](https://www.gmanetwork.com/news/topstories/world/902824/ukraine-s-zaporizhzhia-hit-by-russian-missiles-four-dead-20-injured/story/)
+Append: [Fire in Sta. Cruz, Manila causes P3.7-M damage](https://www.gmanetwork.com/news/topstories/metro/902823/manila-fire-in-residential-area-cost-p3-7-m-damage/story/)
+Append: [Israel fires two officers after finding grave errors in strike on aid workers](https://www.gmanetwork.com/news/topstories/world/902822/israel-fires-two-officers-after-finding-grave-errors-in-strike-on-aid-workers/story/)
+append_entries: 5
+Finish: 2024-04-06 00:48:42.739672
