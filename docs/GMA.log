@@ -2166,3 +2166,9 @@ Append: [Fire in Sta. Cruz, Manila causes P3.7-M damage](https://www.gmanetwork.
 Append: [Israel fires two officers after finding grave errors in strike on aid workers](https://www.gmanetwork.com/news/topstories/world/902822/israel-fires-two-officers-after-finding-grave-errors-in-strike-on-aid-workers/story/)
 append_entries: 5
 Finish: 2024-04-06 00:48:42.739672
+------------------------------------------------------
+Started: 2024-04-06 02:16:44.428499
+Existing_entries: 628
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+append_entries: 0
+Finish: 2024-04-06 02:16:45.544617
