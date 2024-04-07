@@ -2340,3 +2340,18 @@ Summarized using GPT-3.5-turbo
 Append: [Marcos: Developing nearby provinces to improve NCR traffic](https://www.gmanetwork.com/news/topstories/metro/902914/marcos-developing-nearby-provinces-to-improve-ncr-traffic/story/)
 append_entries: 3
 Finish: 2024-04-07 10:10:35.202071
+------------------------------------------------------
+Started: 2024-04-07 12:18:01.653091
+Existing_entries: 654
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [Israeli military reduces troops in southern Gaza, spokesperson says](https://www.gmanetwork.com/news/topstories/world/902927/israeli-military-reduces-troops-in-southern-gaza-spokesperson-says/story/)
+Token length: 110
+Summarized using GPT-3.5-turbo
+Append: [US Powerball player wins $1.3-billion jackpot](https://www.gmanetwork.com/news/topstories/world/902926/us-powerball-player-wins-1-3-billion-jackpot/story/)
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [Automobile group shares tips on dealing with heat to car owners](https://www.gmanetwork.com/news/topstories/nation/902923/automobile-group-shares-tips-on-dealing-with-heat-to-car-owners/story/)
+append_entries: 3
+Finish: 2024-04-07 12:18:10.790393
