@@ -2406,3 +2406,12 @@ Append: [LatAm governments rally around Mexico after Ecuador raids its embassy](
 Append: [Yemen"s Houthis say they targeted Israeli, US, UK ships](https://www.gmanetwork.com/news/topstories/world/902941/yemen-s-houthis-say-they-targeted-israeli-us-uk-ships/story/)
 append_entries: 4
 Finish: 2024-04-07 18:13:23.253050
+------------------------------------------------------
+Started: 2024-04-07 20:10:54.952922
+Existing_entries: 672
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [Israeli military says it has increased its readiness for war in north](https://www.gmanetwork.com/news/topstories/world/902945/israeli-military-says-it-has-increased-its-readiness-for-war-in-north/story/)
+append_entries: 1
+Finish: 2024-04-07 20:10:58.194194
