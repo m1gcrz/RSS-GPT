@@ -2697,3 +2697,20 @@ Summarized using GPT-3.5-turbo
 Append: [Malaysia reports increase in requests to restrict social media content](https://www.gmanetwork.com/news/topstories/world/903112/malaysia-social-media-content/story/)
 append_entries: 3
 Finish: 2024-04-09 08:14:11.092596
+------------------------------------------------------
+Started: 2024-04-09 10:14:13.220110
+Existing_entries: 761
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [Magnitude 6.5 quake strikes Northern Molucca Sea off Indonesia, GFZ says](https://www.gmanetwork.com/news/topstories/world/903138/magnitude-6-5-quake-strikes-northern-molucca-sea-off-indonesia-gfz-says/story/)
+Token length: 238
+Summarized using GPT-3.5-turbo
+Append: [International court condemns Switzerland in landmark climate ruling](https://www.gmanetwork.com/news/topstories/world/903134/international-court-condemns-switzerland-in-landmark-climate-ruling/story/)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Mga diver, nanlumo sa nakitang bagay sa katawan ng isang pating sa Australia](https://www.gmanetwork.com/news/topstories/ulatfilipino/903131/mga-diver-nanlumo-sa-nakitang-bagay-sa-katawan-ng-isang-pating-sa-australia/story/)
+Append: [Aso, umangat at nagpupumiglas matapos naipit ang tali sa pinto ng elevator](https://www.gmanetwork.com/news/topstories/ulatfilipino/903129/aso-umangat-at-nagpupumiglas-matapos-naipit-ang-tali-sa-pinto-ng-elevator/story/)
+Append: [WHO: Hepatitis viruses kill 3,500 people a day](https://www.gmanetwork.com/news/topstories/world/903121/who-hepatitis/story/)
+append_entries: 5
+Finish: 2024-04-09 10:14:23.406358
