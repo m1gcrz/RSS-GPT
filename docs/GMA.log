@@ -2932,3 +2932,18 @@ Summarized using GPT-3.5-turbo
 Append: [Pulis, binaril at napatay ng drug suspect sa Iloilo; suspek, napatay din ng mga tumugis na awtoridad](https://www.gmanetwork.com/news/topstories/ulatfilipino/903269/pulis-binaril-at-napatay-ng-drug-suspect-sa-iloilo-suspek-napatay-din-ng-mga-tumugis-na-awtoridad/story/)
 append_entries: 2
 Finish: 2024-04-10 12:20:00.702572
+------------------------------------------------------
+Started: 2024-04-10 14:10:10.682853
+Existing_entries: 840
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [Residents alarmed as CCG ship sails close to east Pag-Asa](https://www.gmanetwork.com/news/topstories/nation/903280/residents-alarmed-as-ccg-ship-sails-close-to-east-pag-asa/story/)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: ['Abandoned' dog clubbed after biting children in Laguna](https://www.gmanetwork.com/news/topstories/regions/903279/abandoned-dog-clubbed-after-biting-children-in-laguna/story/)
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [Babae, nag-volunteer maging ninang sa bininyagang baby na walang dumating na ninong at ninang sa simbahan](https://www.gmanetwork.com/news/topstories/ulatfilipino/903278/babae-nag-volunteer-maging-ninang-sa-bininyagang-baby-na-walang-dumating-na-ninong-at-ninang-sa-s/story/)
+append_entries: 3
+Finish: 2024-04-10 14:10:22.539136
