@@ -3036,3 +3036,15 @@ Summarized using GPT-3.5-turbo
 Append: [2 dead in Navy chopper mishap near Cavite City market](https://www.gmanetwork.com/news/topstories/regions/903322/2-dead-in-navy-chopper-mishap-near-cavite-city-market/story/)
 append_entries: 3
 Finish: 2024-04-11 02:21:00.237743
+------------------------------------------------------
+Started: 2024-04-11 04:12:54.388802
+Existing_entries: 868
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [Makati LGU vows relentless drug ops after seizure of P3.5-M drugs in Q1 2024](https://www.gmanetwork.com/news/topstories/metro/903335/makati-lgu-vows-relentless-drug-ops-after-seizure-of-p3-5-m-drugs-in-q1-2024/story/)
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [MANIBELA, PISTON to hold 2-day transport strike starting April 15](https://www.gmanetwork.com/news/topstories/nation/903330/piston-transport-strike/story/)
+append_entries: 2
+Finish: 2024-04-11 04:13:01.104954
