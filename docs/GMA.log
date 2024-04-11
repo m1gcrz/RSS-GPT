@@ -3004,3 +3004,20 @@ Summarized using GPT-3.5-turbo
 Append: [US Security Adviser says no need for Beijing to 'overreact" to South China Sea row](https://www.gmanetwork.com/news/topstories/world/903310/us-security-adviser-says-no-need-for-beijing-to-overreact-to-south-china-sea-row/story/)
 append_entries: 1
 Finish: 2024-04-10 22:12:30.082407
+------------------------------------------------------
+Started: 2024-04-11 00:50:39.859885
+Existing_entries: 860
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Marcos arrives in Washington for summit with US, Japan](https://www.gmanetwork.com/news/topstories/nation/903318/marcos-washington-trilateral-summit/story/)
+Token length: 100
+Summarized using GPT-3.5-turbo
+Append: [Marcos bans gov't officials from using sirens, blinkers](https://www.gmanetwork.com/news/topstories/nation/903317/marcos-bans-sirens-blinkers/story/)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [North Korea leader Kim Jong Un says now is the time to be ready for war -- KCNA](https://www.gmanetwork.com/news/topstories/world/903314/north-korea-leader-kim-jong-un-says-now-is-the-time-to-be-ready-for-war-kcna/story/)
+Append: [US assures deeper relations with PH under Biden](https://www.gmanetwork.com/news/topstories/nation/903313/us-assures-deeper-relations-with-ph-under-biden/story/)
+Append: [PH hopes for trilateral trade agreement with US, Japan](https://www.gmanetwork.com/news/topstories/nation/903312/ph-hopes-for-trilateral-trade-agreement-with-us-japan/story/)
+append_entries: 5
+Finish: 2024-04-11 00:50:48.360782
