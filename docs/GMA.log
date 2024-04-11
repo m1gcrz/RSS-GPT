@@ -3021,3 +3021,18 @@ Append: [US assures deeper relations with PH under Biden](https://www.gmanetwork
 Append: [PH hopes for trilateral trade agreement with US, Japan](https://www.gmanetwork.com/news/topstories/nation/903312/ph-hopes-for-trilateral-trade-agreement-with-us-japan/story/)
 append_entries: 5
 Finish: 2024-04-11 00:50:48.360782
+------------------------------------------------------
+Started: 2024-04-11 02:20:47.630196
+Existing_entries: 865
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [Bipartisan US bill seeks $2.5B for PH defense capabilities](https://www.gmanetwork.com/news/topstories/nation/903325/bipartisan-us-bill-seeks-2-5b-for-ph-defense-capabilities/story/)
+Token length: 122
+Summarized using GPT-3.5-turbo
+Append: [Marcos wants regulated issuance of protocol license plates](https://www.gmanetwork.com/news/topstories/nation/903324/marcos-protocol-license-plates/story/)
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [2 dead in Navy chopper mishap near Cavite City market](https://www.gmanetwork.com/news/topstories/regions/903322/2-dead-in-navy-chopper-mishap-near-cavite-city-market/story/)
+append_entries: 3
+Finish: 2024-04-11 02:21:00.237743
