@@ -3312,3 +3312,20 @@ Summarized using GPT-3.5-turbo
 Append: [DOJ to probe Bamban officials over raided POGO hub](https://www.gmanetwork.com/news/topstories/nation/903492/doj-to-probe-bamban-officials-over-raided-pogo-hub/story/)
 append_entries: 3
 Finish: 2024-04-12 14:10:45.792965
+------------------------------------------------------
+Started: 2024-04-12 16:13:15.969633
+Existing_entries: 938
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [Frail pope to embark on Asia trip, his longest ever, in September](https://www.gmanetwork.com/news/topstories/world/903505/frail-pope-to-embark-on-asia-trip-his-longest-ever-in-september/story/)
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [PHIVOLCS records four phreatic eruptions from Taal Volcano on Friday](https://www.gmanetwork.com/news/topstories/regions/903504/phivolcs-records-four-phreatic-eruptions-from-taal-volcano-on-friday/story/)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Man facing rap after stalking It's Showtime host](https://www.gmanetwork.com/news/topstories/metro/903503/man-facing-rap-after-stalking-it-s-showtime-host/story/)
+Append: [Russia tells Japanese envoy it views deeper US-Japanese military ties as a threat](https://www.gmanetwork.com/news/topstories/world/903502/russia-tells-japanese-envoy-it-views-deeper-us-japanese-military-ties-as-a-threat/story/)
+Append: [PCG: 25 Chinese militia vessels, 2 China Coast Guard ships spotted at Bajo de Masinloc](https://www.gmanetwork.com/news/topstories/nation/903501/pcg-25-chinese-militia-vessels-2-china-coast-guard-ships-spotted-at-bajo-de-masinloc/story/)
+append_entries: 5
+Finish: 2024-04-12 16:13:30.000570
