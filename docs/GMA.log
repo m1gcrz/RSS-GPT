@@ -3297,3 +3297,18 @@ Summarized using GPT-3.5-turbo
 Append: [DOJ placing Quiboloy complainant in witness protection](https://www.gmanetwork.com/news/topstories/nation/903483/doj-placing-quiboloy-complainant-in-witness-protection/story/)
 append_entries: 3
 Finish: 2024-04-12 12:19:52.476633
+------------------------------------------------------
+Started: 2024-04-12 14:10:33.077634
+Existing_entries: 935
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [Woman nabbed after taking date's car, selling it online](https://www.gmanetwork.com/news/topstories/metro/903499/woman-nabbed-after-taking-date-s-car-selling-it-online/story/)
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [Woman on EDSA busway: I'm the niece of major general... tama na 'yan](https://www.gmanetwork.com/news/topstories/metro/903495/woman-apprehended-on-edsa-busway-tells-traffic-enforcer-she-s-general-s-niece/story/)
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [DOJ to probe Bamban officials over raided POGO hub](https://www.gmanetwork.com/news/topstories/nation/903492/doj-to-probe-bamban-officials-over-raided-pogo-hub/story/)
+append_entries: 3
+Finish: 2024-04-12 14:10:45.792965
