@@ -3421,3 +3421,20 @@ Summarized using GPT-3.5-turbo
 Append: [Marcos: China investments unaffected by deals with US, Japan](https://www.gmanetwork.com/news/topstories/nation/903541/marcos-china-investments-to-be-unaffected-by-deals-with-us-japan/story/)
 append_entries: 2
 Finish: 2024-04-13 06:11:27.685929
+------------------------------------------------------
+Started: 2024-04-13 08:10:48.661611
+Existing_entries: 965
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [Jeepney driver, huli dahil sa kaskaserong pagmamaneho nang lasing sa Camarines Sur](https://www.gmanetwork.com/news/topstories/ulatfilipino/903560/jeepney-driver-huli-dahil-sa-kaskaserong-pagmamaneho-nang-lasing-sa-camarines-sur/story/)
+Token length: 92
+Summarized using GPT-3.5-turbo
+Append: [Planned 2-day strike won"t paralyze public transport --DOTr exec](https://www.gmanetwork.com/news/topstories/nation/903559/planned-2-day-strike-won-t-paralyze-public-transport-dotr-exec/story/)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [Budget chief warns of scammers posing as DBM officials](https://www.gmanetwork.com/news/topstories/nation/903555/budget-chief-warns-of-scammers-posing-as-dbm-officials/story/)
+Append: [Marcos: US, Japan, PH trilateral deal to 'change dynamic' in SCS](https://www.gmanetwork.com/news/topstories/nation/903556/trilateral-deal-will-change-dynamic-in-scs-marcos-says/story/)
+Append: [Anino umanong sumusunod sa isang babae, nakunang nagpapagalaw ng extension cord?](https://www.gmanetwork.com/news/topstories/ulatfilipino/903552/anino-umanong-sumusunod-sa-isang-babae-nakunang-nagpapagalaw-ng-extension-cord/story/)
+append_entries: 5
+Finish: 2024-04-13 08:10:57.191732
