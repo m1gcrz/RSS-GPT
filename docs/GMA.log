@@ -3371,3 +3371,15 @@ Summarized using GPT-3.5-turbo
 Append: [Most US teachers worry about school shootings, survey finds](https://www.gmanetwork.com/news/topstories/world/903520/most-us-teachers-worry-about-school-shootings-survey-finds/story/)
 append_entries: 2
 Finish: 2024-04-12 22:09:16.202239
+------------------------------------------------------
+Started: 2024-04-13 00:41:11.012088
+Existing_entries: 953
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: [Trump's hush money trial will not be delayed because of publicity, judge rules](https://www.gmanetwork.com/news/topstories/world/903526/trump-s-hush-money-trial-will-not-be-delayed-because-of-publicity-judge-rules/story/)
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [President Biden's son Hunter loses bid to dismiss gun charges](https://www.gmanetwork.com/news/topstories/world/903525/president-biden-s-son-hunter-loses-bid-to-dismiss-gun-charges/story/)
+append_entries: 2
+Finish: 2024-04-13 00:41:16.861451
