@@ -3383,3 +3383,9 @@ Summarized using GPT-3.5-turbo
 Append: [President Biden's son Hunter loses bid to dismiss gun charges](https://www.gmanetwork.com/news/topstories/world/903525/president-biden-s-son-hunter-loses-bid-to-dismiss-gun-charges/story/)
 append_entries: 2
 Finish: 2024-04-13 00:41:16.861451
+------------------------------------------------------
+Started: 2024-04-13 02:10:34.462938
+Existing_entries: 955
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+append_entries: 0
+Finish: 2024-04-13 02:10:35.825822
