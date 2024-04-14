@@ -3505,3 +3505,15 @@ Existing_entries: 979
 Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
 append_entries: 0
 Finish: 2024-04-13 22:09:45.503953
+------------------------------------------------------
+Started: 2024-04-14 01:08:29.974615
+Existing_entries: 979
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [UN chief 'deeply alarmed' by danger of escalation after Iran attack --statement](https://www.gmanetwork.com/news/topstories/world/903590/un-chief-deeply-alarmed-by-danger-of-escalation-after-iran-attack-statement/story/)
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: [Iran attacks Israel with drones, missiles](https://www.gmanetwork.com/news/topstories/world/903588/iran-attacks-israel-with-drones-missiles/story/)
+append_entries: 2
+Finish: 2024-04-14 01:08:36.397688
