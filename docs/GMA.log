@@ -3773,3 +3773,18 @@ Summarized using GPT-3.5-turbo
 Append: [Pres. Marcos, sinabing maraming 'palusot' sa umano'y 'secret' deal ni ex-Pres Duterte sa China](https://www.gmanetwork.com/news/topstories/ulatfilipino/903757/pres-marcos-sinabing-maraming-palusot-sa-umano-y-secret-deal-ni-ex-pres-duterte-sa-china/story/)
 append_entries: 2
 Finish: 2024-04-15 18:14:01.296109
+------------------------------------------------------
+Started: 2024-04-15 20:11:13.018642
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [Man stabbed dead in GenSan brawl](https://www.gmanetwork.com/news/topstories/regions/903761/man-stabbed-dead-in-gensan-brawl/story/)
+Token length: 377
+Summarized using GPT-3.5-turbo
+Append: [Infant found dead inside a box in a cemetery in Pangasinan](https://www.gmanetwork.com/news/topstories/regions/903760/infant-found-dead-inside-a-box-in-a-cemetery-in-pangasinan/story/)
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [P12-M worth of property destroyed in Cebu City fire](https://www.gmanetwork.com/news/topstories/regions/903759/p12-m-worth-of-property-destroyed-in-cebu-city-fire/story/)
+append_entries: 3
+Finish: 2024-04-15 20:11:23.500705
