@@ -3724,3 +3724,23 @@ Append: [Ano ang tamang paraan sa paglilinis ng sapatos para hindi manilaw at ma
 Append: [Group wants installation of internet to be lease-free](https://www.gmanetwork.com/news/topstories/nation/903719/group-wants-installation-of-internet-to-be-lease-free/story/)
 append_entries: 10
 Finish: 2024-04-15 12:21:17.171361
+------------------------------------------------------
+Started: 2024-04-15 14:10:00.462744
+Existing_entries: 1010
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [Donors hope to raise more than $1 billion for Sudan a year into war](https://www.gmanetwork.com/news/topstories/world/903730/donors-hope-to-raise-more-than-1-billion-for-sudan-a-year-into-war/story/)
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [Teacher's 'discipline waiver' halted by DepEd](https://www.gmanetwork.com/news/topstories/regions/903741/teacher-s-discipline-waiver-halted-by-deped/story/)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [Trump becomes first ex-US president to face criminal trial](https://www.gmanetwork.com/news/topstories/world/903742/trump-becomes-first-ex-us-president-to-face-criminal-trial/story/)
+Append: [LTFRB: PISTON, MANIBELA strike did not disrupt public transport](https://www.gmanetwork.com/news/topstories/nation/903739/ltfrb-piston-manibela-strike-did-not-disrupt-public-transport/story/)
+Append: [Mga goldfish, marunong magmalasakit sa kapuwa nila?](https://www.gmanetwork.com/news/topstories/ulatfilipino/903738/mga-goldfish-marunong-magmalasakit-sa-kapuwa-nila/story/)
+Append: [IRR for amnesty to ex-rebels awaiting signatures](https://www.gmanetwork.com/news/topstories/nation/903735/irr-for-amnesty-to-ex-rebels-awaiting-signatures/story/)
+Append: [Marcos: PH better served by 'critical" not 'cooperative" press](https://www.gmanetwork.com/news/topstories/nation/903737/marcos-ph-better-served-by-critical-not-cooperative-press/story/)
+Append: [Nasa 2 toneladang hinihinalang shabu na abot sa P13.3B ang halaga, nasabat sa Batangas](https://www.gmanetwork.com/news/topstories/ulatfilipino/903734/nasa-2-toneladang-hinihinalang-shabu-na-abot-sa-p13-3b-ang-halaga-nasabat-sa-batangas/story/)
+append_entries: 8
+Finish: 2024-04-15 14:10:12.377089
