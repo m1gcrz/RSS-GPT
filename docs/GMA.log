@@ -3788,3 +3788,12 @@ Summarized using GPT-3.5-turbo
 Append: [P12-M worth of property destroyed in Cebu City fire](https://www.gmanetwork.com/news/topstories/regions/903759/p12-m-worth-of-property-destroyed-in-cebu-city-fire/story/)
 append_entries: 3
 Finish: 2024-04-15 20:11:23.500705
+------------------------------------------------------
+Started: 2024-04-15 22:09:56.648992
+Existing_entries: 1003
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: [Rebels raise flag at seized Myanmar base, commander confident of retaining control](https://www.gmanetwork.com/news/topstories/world/903764/rebels-raise-flag-at-seized-myanmar-base-commander-confident-of-retaining-control/story/)
+append_entries: 1
+Finish: 2024-04-15 22:10:02.273565
