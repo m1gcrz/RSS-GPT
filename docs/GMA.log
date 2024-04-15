@@ -3656,3 +3656,23 @@ Summarized using GPT-3.5-turbo
 Append: [Huge amount of cash found by traffic enforcers; MMDA seeks owner](https://www.gmanetwork.com/news/topstories/metro/903676/huge-amount-of-cash-found-by-traffic-enforcers-mmda-seeks-owner/story/)
 append_entries: 2
 Finish: 2024-04-15 06:15:36.501793
+------------------------------------------------------
+Started: 2024-04-15 08:11:55.327655
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [Pagbabawal sa mga E-bike, e-trike sa national roads ng NCR, epektibo na ngayong Lunes, April 15](https://www.gmanetwork.com/news/topstories/ulatfilipino/903692/pagbabawal-sa-mga-e-bike-e-trike-sa-national-roads-ng-ncr-epektibo-na-ngayong-lunes-april-15/story/)
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [Solons seek full disclosure of Duterte's 'gentleman's agreement' with China](https://www.gmanetwork.com/news/topstories/nation/903691/solons-seek-full-disclosure-of-duterte-s-gentleman-s-agreement-with-china/story/)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Brawner: Possible Taiwan-conflict refugees may flee to PH](https://www.gmanetwork.com/news/topstories/nation/903683/brawner-possible-taiwan-conflict-refugees-may-flee-to-ph/story/)
+Append: [AFP developing strategic bases covering Philippines' EEZ -- Brawner](https://www.gmanetwork.com/news/topstories/nation/903687/afp-philippines-eez-brawner/story/)
+Append: [Marcos: PH will not serve arrest warrant from ICC vs. ex-Pres. Duterte](https://www.gmanetwork.com/news/topstories/nation/903686/marcos-ph-will-not-serve-arrest-warrant-from-icc-vs-ex-pres-duterte/story/)
+Append: [AFP, PNP reiterate loyalty to Constitution amid call to withdraw support from Marcos](https://www.gmanetwork.com/news/topstories/nation/903681/afp-pnp-constitution-withdraw-support-marcos/story/)
+Append: [Marcos: US-Japan-PH trilateral agreement 'not directed against anyone'](https://www.gmanetwork.com/news/topstories/nation/903684/marcos-us-japan-ph-trilateral-agreement-not-directed-against-anyone/story/)
+Append: [US military destroyed 80 drones, 6 missiles launched from Iran, Yemen, US Centcom says](https://www.gmanetwork.com/news/topstories/world/903680/us-military-destroyed-80-drones-6-missiles-launched-from-iran-yemen-us-centcom-says/story/)
+append_entries: 8
+Finish: 2024-04-15 08:12:04.208946
