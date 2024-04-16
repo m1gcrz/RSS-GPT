@@ -3949,3 +3949,20 @@ Summarized using GPT-3.5-turbo
 Append: [SC names chief communications officer, first female spokesperson](https://www.gmanetwork.com/news/topstories/nation/903863/sc-names-chief-communications-officer-first-female-spokesperson/story/)
 append_entries: 3
 Finish: 2024-04-16 16:14:22.784897
+------------------------------------------------------
+Started: 2024-04-16 18:13:36.725232
+Existing_entries: 1003
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [Slovenia, Spain prioritize recognition of Palestinian state](https://www.gmanetwork.com/news/topstories/world/903874/slovenia-spain-prioritize-recognition-of-palestinian-state/story/)
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [Menor de edad na rider at dalagitang angkas, patay nang bumangga ang kanilang motorsiklo sa bus sa Cebu](https://www.gmanetwork.com/news/topstories/ulatfilipino/903857/menor-de-edad-na-rider-at-dalagitang-angkas-patay-nang-bumangga-ang-kanilang-motorsiklo-sa-bus-sa/story/)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [Magnitude 5.0 quake struck off General Luna, Surigao del Norte](https://www.gmanetwork.com/news/topstories/regions/903872/magnitude-5-0-quake-struck-off-general-luna-surigao-del-norte/story/)
+Append: [Heavy floods hit Dubai roads and airport; Oman toll rises to 18](https://www.gmanetwork.com/news/topstories/world/903870/heavy-floods-hit-dubai-roads-and-airport-oman-toll-rises-to-18/story/)
+Append: [7-anyos na babae, pinagsamantalahan umano ng kaniyang kuya, pinsan at tiyuhin](https://www.gmanetwork.com/news/topstories/ulatfilipino/903871/7-anyos-na-babae-pinagsamantalahan-umano-ng-kaniyang-kuya-pinsan-at-tiyuhin/story/)
+append_entries: 5
+Finish: 2024-04-16 18:13:45.787472
