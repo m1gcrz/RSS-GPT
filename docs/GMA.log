@@ -3999,3 +3999,18 @@ Summarized using GPT-3.5-turbo
 Append: [Israeli tanks push back into northern Gaza, warplanes hit Rafah, say residents](https://www.gmanetwork.com/news/topstories/world/903880/israeli-tanks-push-back-into-northern-gaza-warplanes-hit-rafah-say-residents/story/)
 append_entries: 3
 Finish: 2024-04-17 00:51:04.662494
+------------------------------------------------------
+Started: 2024-04-17 02:21:15.200576
+Existing_entries: 1003
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [Bongbong, Liza Marcos mark 31st wedding anniversary](https://www.gmanetwork.com/news/topstories/nation/903889/bongbong-liza-marcos-mark-31st-wedding-anniversary/story/)
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [Myanmar's ex-leader Suu Kyi moved to house arrest](https://www.gmanetwork.com/news/topstories/world/903890/myanmar-suu-kyi-house-arrest/story/)
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [Tomb of 'Servant of God' Niña Ruiz Abad opened to public](https://www.gmanetwork.com/news/topstories/regions/903888/tomb-nina-ruiz-abad/story/)
+append_entries: 3
+Finish: 2024-04-17 02:21:24.366191
