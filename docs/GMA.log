@@ -4090,3 +4090,18 @@ Append: [Meralco calls for more power sources amid increased demand](https://www
 Append: [PH invites Japan to join Balikatan 2025](https://www.gmanetwork.com/news/topstories/nation/903935/ph-japan-balikatan-2025/story/)
 append_entries: 10
 Finish: 2024-04-17 10:12:29.682063
+------------------------------------------------------
+Started: 2024-04-17 12:19:58.195167
+Existing_entries: 1010
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [13-anyos na babaeng estudyante, binaril habang naglalakad sa Batangas](https://www.gmanetwork.com/news/topstories/ulatfilipino/903961/13-anyos-na-babaeng-estudyante-binaril-habang-naglalakad-sa-batangas/story/)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Senate panel to begin hearings on anti-online piracy bills next week](https://www.gmanetwork.com/news/topstories/nation/903959/senate-panel-to-begin-hearings-on-anti-online-piracy-bills-next-week/story/)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [Volunteer firefighter, nasawi sa sunog sa San Juan](https://www.gmanetwork.com/news/topstories/ulatfilipino/903958/volunteer-firefighter-nasawi-sa-sunog-sa-san-juan/story/)
+append_entries: 3
+Finish: 2024-04-17 12:20:09.431580
