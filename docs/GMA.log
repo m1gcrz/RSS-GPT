@@ -3984,3 +3984,18 @@ Summarized using GPT-3.5-turbo
 Append: [World leaders call on nations to swiftly ratify U.N. ocean treaty](https://www.gmanetwork.com/news/topstories/world/903878/world-leaders-call-on-nations-to-swiftly-ratify-u-n-ocean-treaty/story/)
 append_entries: 2
 Finish: 2024-04-16 22:11:06.612537
+------------------------------------------------------
+Started: 2024-04-17 00:50:52.532777
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [Lola sa Cebu, natangayan ng pera at alahas ng kapwa lola](https://www.gmanetwork.com/news/topstories/ulatfilipino/903885/lola-sa-cebu-natangayan-ng-pera-at-alahas-ng-kapwa-lola/story/)
+Token length: 69
+Summarized using GPT-3.5-turbo
+Append: [Pagadian airport closed for a month for rehab](https://www.gmanetwork.com/news/topstories/regions/903881/pagadian-airport-closed-rehab/story/)
+Token length: 278
+Summarized using GPT-3.5-turbo
+Append: [Israeli tanks push back into northern Gaza, warplanes hit Rafah, say residents](https://www.gmanetwork.com/news/topstories/world/903880/israeli-tanks-push-back-into-northern-gaza-warplanes-hit-rafah-say-residents/story/)
+append_entries: 3
+Finish: 2024-04-17 00:51:04.662494
