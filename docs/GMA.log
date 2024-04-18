@@ -4345,3 +4345,18 @@ Append: [Marcos, Luxon eye review of PH-New Zealand deal on migrant workers](htt
 Append: [Biden to win Kennedy family endorsement amid RFK Jr. presidential bid](https://www.gmanetwork.com/news/topstories/world/904095/biden-to-win-kennedy-family-endorsement-amid-rfk-jr-presidential-bid/story/)
 append_entries: 5
 Finish: 2024-04-18 18:14:21.973167
+------------------------------------------------------
+Started: 2024-04-18 20:12:04.885755
+Existing_entries: 1005
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [Man in Davao Oriental arrested for beating up his own mother](https://www.gmanetwork.com/news/topstories/regions/904108/man-in-davao-oriental-arrested-for-beating-up-his-own-mother/story/)
+Token length: 248
+Summarized using GPT-3.5-turbo
+Append: [Indonesian volcano eruption forces evacuations, airport closure](https://www.gmanetwork.com/news/topstories/world/904107/indonesian-volcano-eruption-forces-evacuations-airport-closure/story/)
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [Kenya's military chief among 10 people killed in helicopter crash](https://www.gmanetwork.com/news/topstories/world/904106/kenya-s-military-chief-among-10-people-killed-in-helicopter-crash/story/)
+append_entries: 3
+Finish: 2024-04-18 20:12:20.989403
