@@ -4604,3 +4604,18 @@ Summarized using GPT-3.5-turbo
 Append: [Mayor slams 'racial undertones' of Chinese influx issue in Cagayan](https://www.gmanetwork.com/news/topstories/regions/904226/mayor-slams-racial-undertones-of-chinese-influx-issue-in-cagayan/story/)
 append_entries: 2
 Finish: 2024-04-20 06:13:21.505265
+------------------------------------------------------
+Started: 2024-04-20 08:12:30.577626
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [US House to vote on Ukraine, Israel, Taiwan aid package](https://www.gmanetwork.com/news/topstories/world/904233/us-house-to-vote-on-ukraine-israel-taiwan-aid-package/story/)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [US-PH Balikatan drills not preparation for war, NSC says](https://www.gmanetwork.com/news/topstories/nation/904230/us-ph-balikatan-drills-not-preparation-for-war-nsc-says/story/)
+Token length: 247
+Summarized using GPT-3.5-turbo
+Append: [Fighting flares at Myanmar-Thai border as rebels target stranded junta troops](https://www.gmanetwork.com/news/topstories/world/904229/fighting-flares-at-myanmar-thai-border-as-rebels-target-stranded-junta-troops/story/)
+append_entries: 3
+Finish: 2024-04-20 08:12:39.752630
