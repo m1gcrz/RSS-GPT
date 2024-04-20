@@ -4592,3 +4592,15 @@ Summarized using GPT-3.5-turbo
 Append: [More than 1.7 million persons affected by El Niño, DSWD says](https://www.gmanetwork.com/news/topstories/nation/904220/more-than-1-7-million-persons-affected-by-el-nino-dswd-says/story/)
 append_entries: 1
 Finish: 2024-04-20 04:14:49.567925
+------------------------------------------------------
+Started: 2024-04-20 06:13:14.904061
+Existing_entries: 1001
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [Taiwan's defense ministry detects 21 Chinese military aircraft](https://www.gmanetwork.com/news/topstories/world/904227/taiwan-s-defense-ministry-detects-21-chinese-military-aircraft/story/)
+Token length: 98
+Summarized using GPT-3.5-turbo
+Append: [Mayor slams 'racial undertones' of Chinese influx issue in Cagayan](https://www.gmanetwork.com/news/topstories/regions/904226/mayor-slams-racial-undertones-of-chinese-influx-issue-in-cagayan/story/)
+append_entries: 2
+Finish: 2024-04-20 06:13:21.505265
