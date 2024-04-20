@@ -4661,3 +4661,15 @@ Summarized using GPT-3.5-turbo
 Append: [India confirms delivery of BrahMos missiles to PH](https://www.gmanetwork.com/news/topstories/nation/904258/india-confirms-delivery-of-brahmos-missiles-to-ph/story/)
 append_entries: 3
 Finish: 2024-04-20 14:09:19.609334
+------------------------------------------------------
+Started: 2024-04-20 16:13:31.752307
+Existing_entries: 1003
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [South Korean doctors reject govt proposal to end strike](https://www.gmanetwork.com/news/topstories/world/904263/south-korean-doctors-reject-govt-proposal-to-end-strike/story/)
+Token length: 308
+Summarized using GPT-3.5-turbo
+Append: [BI: Chinese students in Cagayan have proper documents](https://www.gmanetwork.com/news/topstories/nation/904262/bi-chinese-students-in-cagayan-have-proper-documents/story/)
+append_entries: 2
+Finish: 2024-04-20 16:13:38.896651
