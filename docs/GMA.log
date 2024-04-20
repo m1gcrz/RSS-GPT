@@ -4555,3 +4555,15 @@ Summarized using GPT-3.5-turbo
 Append: [Iran signals no plan to retaliate against Israel after drone attack](https://www.gmanetwork.com/news/topstories/world/904211/iran-signals-no-plan-to-retaliate-against-israel-after-drone-attack/story/)
 append_entries: 1
 Finish: 2024-04-19 22:10:08.681778
+------------------------------------------------------
+Started: 2024-04-20 00:50:47.524838
+Existing_entries: 1001
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 250
+Summarized using GPT-3.5-turbo
+Append: [US military strategy tested as Iran-Israel warfare comes out of shadows](https://www.gmanetwork.com/news/topstories/world/904213/us-military-strategy-tested-as-iran-israel-warfare-comes-out-of-shadows/story/)
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [North Korea conducts cruise missile warhead test on Friday, KCNA says](https://www.gmanetwork.com/news/topstories/world/904212/north-korea-conducts-cruise-missile-warhead-test-on-friday-kcna-says/story/)
+append_entries: 2
+Finish: 2024-04-20 00:50:53.679777
