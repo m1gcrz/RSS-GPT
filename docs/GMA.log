@@ -4631,3 +4631,18 @@ Summarized using GPT-3.5-turbo
 Append: [Caloocan court drops all charges vs PISTON 6](https://www.gmanetwork.com/news/topstories/metro/904235/caloocan-court-drops-all-charges-vs-piston-6/story/)
 append_entries: 2
 Finish: 2024-04-20 10:11:29.559680
+------------------------------------------------------
+Started: 2024-04-20 12:18:59.120910
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [12-talampakang sawa, nahuli na pagala-gala sa eskinita sa Rizal](https://www.gmanetwork.com/news/topstories/ulatfilipino/904253/12-talampakang-sawa-nahuli-na-pagala-gala-sa-eskinita-sa-rizal/story/)
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [BOC stops smuggling of over 80 live spiders in Pasay](https://www.gmanetwork.com/news/topstories/nation/904248/boc-stops-smuggling-of-over-80-live-spiders-in-pasay/story/)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [PH eyeing to sign RAA with Japan before 2024 ends --NSC](https://www.gmanetwork.com/news/topstories/nation/904245/ph-eyeing-to-sign-raa-with-japan-before-2024-ends-nsc/story/)
+append_entries: 3
+Finish: 2024-04-20 12:19:10.835207
