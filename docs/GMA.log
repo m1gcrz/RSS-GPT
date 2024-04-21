@@ -4783,3 +4783,18 @@ Summarized using GPT-3.5-turbo
 Append: [Robin Padilla seeks probe on SMNI suspension](https://www.gmanetwork.com/news/topstories/nation/904307/robin-padilla-seeks-probe-on-smni-suspension/story/)
 append_entries: 2
 Finish: 2024-04-21 10:10:43.188701
+------------------------------------------------------
+Started: 2024-04-21 12:19:46.557643
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: ['Largest" Balikatan exercise to start Monday](https://www.gmanetwork.com/news/topstories/nation/904322/largest-balikatan-exercise-to-start-monday/story/)
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [Marcos showcases Filipino hospitality in latest vlog](https://www.gmanetwork.com/news/topstories/nation/904318/marcos-showcases-filipino-hospitality-in-latest-vlog/story/)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [Barbers: Chinese students in Cagayan could be spies](https://www.gmanetwork.com/news/topstories/nation/904320/barbers-chinese-students-in-cagayan-could-be-spies/story/)
+append_entries: 3
+Finish: 2024-04-21 12:19:55.942063
