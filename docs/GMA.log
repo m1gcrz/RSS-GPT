@@ -4694,3 +4694,15 @@ Existing_entries: 1000
 Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
 append_entries: 0
 Finish: 2024-04-20 22:10:46.430981
+------------------------------------------------------
+Started: 2024-04-21 00:54:28.470735
+Existing_entries: 1000
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [One hurt in fire in Paco, Manila; Paco Catholic School affected](https://www.gmanetwork.com/news/topstories/metro/904268/one-hurt-in-fire-in-paco-manila-paco-catholic-school-affected/story/)
+Token length: 238
+Summarized using GPT-3.5-turbo
+Append: [More than 14 Palestinians killed as violence flares in West Bank](https://www.gmanetwork.com/news/topstories/world/904267/more-than-14-palestinians-killed-as-violence-flares-in-west-bank/story/)
+append_entries: 2
+Finish: 2024-04-21 00:54:37.728502
