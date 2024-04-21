@@ -4819,3 +4819,19 @@ Summarized using GPT-3.5-turbo
 Append: [TB symptoms seen in over 400 Pasay City Jail PDLs](https://www.gmanetwork.com/news/topstories/metro/904328/tb-symptoms-seen-in-over-400-pasay-city-jail-pdls/story/)
 append_entries: 2
 Finish: 2024-04-21 16:14:00.538716
+------------------------------------------------------
+Started: 2024-04-21 18:14:18.431198
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [Zelenskiy urges speedy passage of Ukraine aid in US Senate, transfer of weapons](https://www.gmanetwork.com/news/topstories/world/904332/zelenskiy-urges-speedy-passage-of-ukraine-aid-in-us-senate-transfer-of-weapons/story/)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [Rep. Barbers, ipinagtataka rin ang dami ng Chinese students sa Cagayan: 'Bakit ba lahat sila nandidiyan?'](https://www.gmanetwork.com/news/topstories/ulatfilipino/904333/rep-barbers-ipinagtataka-rin-ang-dami-ng-chinese-students-sa-cagayan-bakit-ba-lahat-sila-nandidiy/story/)
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [Baby in Gaza saved from womb of mother killed in Israeli strike](https://www.gmanetwork.com/news/topstories/world/904331/baby-in-gaza-saved-from-womb-of-mother-killed-in-israeli-strike/story/)
+Append: [13-anyos na dalagita na kinagat ng aso 2 buwan na ang nakalilipas, namatay sa rabies](https://www.gmanetwork.com/news/topstories/ulatfilipino/904330/13-anyos-na-dalagita-na-kinagat-ng-aso-2-buwan-na-ang-nakalilipas-namatay-sa-rabies/story/)
+append_entries: 4
+Finish: 2024-04-21 18:14:30.719701
