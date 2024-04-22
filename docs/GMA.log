@@ -4874,3 +4874,20 @@ Summarized using GPT-3.5-turbo
 Append: [Amir of Qatar arrives in Palace to meet Marcos](https://www.gmanetwork.com/news/topstories/nation/904345/amir-of-qatar-arrives-in-palace-to-meet-marcos/story/)
 append_entries: 2
 Finish: 2024-04-22 02:22:40.501241
+------------------------------------------------------
+Started: 2024-04-22 04:13:30.765013
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [PH-US start 'biggest" Balikatan exercise](https://www.gmanetwork.com/news/topstories/nation/904356/ph-us-start-biggest-balikatan-exercise/story/)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [Iloilo City declares state of calamity due to water scarcity](https://www.gmanetwork.com/news/topstories/regions/904354/iloilo-declares-state-of-calamity-due-to-water-scarcity/story/)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [PH, Qatar ink deal on trade, sports, human trafficking](https://www.gmanetwork.com/news/topstories/nation/904353/ph-qatar-ink-deal-on-trade-sports-human-trafficking/story/)
+Append: [China is committed to resolving maritime disputes through talks, official says](https://www.gmanetwork.com/news/topstories/world/904351/china-is-committed-to-resolving-maritime-disputes-through-talks-official-says/story/)
+Append: ['Wiper boys" in Quezon City taken into custody](https://www.gmanetwork.com/news/topstories/metro/904350/wiper-boys-in-quezon-city-taken-into-custody/story/)
+append_entries: 5
+Finish: 2024-04-22 04:13:41.303032
