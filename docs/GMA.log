@@ -5226,3 +5226,15 @@ Existing_entries: 1003
 Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
 append_entries: 0
 Finish: 2024-04-23 20:11:29.159208
+------------------------------------------------------
+Started: 2024-04-23 22:11:25.880554
+Existing_entries: 1000
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [North Korea leader Kim's sister: We will build overwhelming military power](https://www.gmanetwork.com/news/topstories/world/904572/north-korea-leader-kim-s-sister-we-will-build-overwhelming-military-power/story/)
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [Colombian court recognizes environmental refugees](https://www.gmanetwork.com/news/topstories/world/904571/colombian-court-recognizes-environmental-refugees/story/)
+append_entries: 2
+Finish: 2024-04-23 22:11:33.902473
