@@ -5085,3 +5085,23 @@ Summarized using GPT-3.5-turbo
 Append: [Lalaki sa Cagayan, patay matapos gawing pulutan ang butete](https://www.gmanetwork.com/news/topstories/ulatfilipino/904459/lalaki-sa-cagayan-patay-matapos-gawing-pulutan-ang-butete/story/)
 append_entries: 2
 Finish: 2024-04-23 04:14:09.820166
+------------------------------------------------------
+Started: 2024-04-23 06:14:56.891000
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [Speaker Romualdez: Defense, education, healthcare to be prioritized when session resumes](https://www.gmanetwork.com/news/topstories/nation/904477/speaker-romualdez-defense-education-healthcare-to-be-prioritized-when-session-resumes/story/)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Marcos says he's lucky to have a 'very protective' wife](https://www.gmanetwork.com/news/topstories/nation/904482/bongbong-marcos-liza-araneta-marcos-protective-wife/story/)
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [Fire hits Parola compound in Manila](https://www.gmanetwork.com/news/topstories/metro/904479/fire-hits-parola-compound-in-manila/story/)
+Append: [Marcos sees 'no reason' to replace Sara in Cabinet](https://www.gmanetwork.com/news/topstories/nation/904475/marcos-no-reason-to-replace-sara/story/)
+Append: [Senate defense panel urged to probe foreigners' use of unlawfully obtained docs](https://www.gmanetwork.com/news/topstories/nation/904473/senate-defense-panel-urged-to-probe-foreigners-use-of-unlawfully-obtained-docs/story/)
+Append: [PISTON asks SC to act on TRO bid vs PUVMP](https://www.gmanetwork.com/news/topstories/nation/904472/piston-asks-sc-to-act-on-tro-bid-vs-puvmp/story/)
+Append: [Ten killed after two Malaysian navy helicopters collide in mid-air](https://www.gmanetwork.com/news/topstories/world/904470/ten-killed-after-two-malaysian-navy-helicopters-collide-in-mid-air/story/)
+Append: [Marcos vows to address power crisis in Occidental Mindoro](https://www.gmanetwork.com/news/topstories/regions/904469/marcos-vows-to-address-power-crisis-in-occidental-mindoro/story/)
+append_entries: 8
+Finish: 2024-04-23 06:15:06.833540
