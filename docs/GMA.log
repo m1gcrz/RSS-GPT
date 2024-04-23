@@ -5220,3 +5220,9 @@ Summarized using GPT-3.5-turbo
 Append: [Spain pushes Catholic Church to compensate abuse victims](https://www.gmanetwork.com/news/topstories/world/904567/spain-pushes-catholic-church-to-compensate-abuse-victims/story/)
 append_entries: 3
 Finish: 2024-04-23 18:14:11.356212
+------------------------------------------------------
+Started: 2024-04-23 20:11:27.057517
+Existing_entries: 1003
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+append_entries: 0
+Finish: 2024-04-23 20:11:29.159208
