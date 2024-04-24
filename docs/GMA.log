@@ -5238,3 +5238,20 @@ Summarized using GPT-3.5-turbo
 Append: [Colombian court recognizes environmental refugees](https://www.gmanetwork.com/news/topstories/world/904571/colombian-court-recognizes-environmental-refugees/story/)
 append_entries: 2
 Finish: 2024-04-23 22:11:33.902473
+------------------------------------------------------
+Started: 2024-04-24 00:50:55.788280
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [Basketball championship game sa Iloilo City, nauwi sa rambol](https://www.gmanetwork.com/news/topstories/ulatfilipino/904583/basketball-championship-game-sa-iloilo-city-nauwi-sa-rambol/story/)
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [Man in Abra dies after getting punched](https://www.gmanetwork.com/news/topstories/regions/904581/man-in-abra-dies-after-getting-punched/story/)
+Token length: 97
+Summarized using GPT-3.5-turbo
+Append: [12 quakes, 8 tremors logged at Taal Volcano in 24 hours](https://www.gmanetwork.com/news/topstories/regions/904575/12-quakes-8-tremors-logged-at-taal-volcano-in-24-hours/story/)
+Append: [Russian missiles attack residential area in Ukraine's Kharkiv, says mayor](https://www.gmanetwork.com/news/topstories/world/904574/russian-missiles-attack-residential-area-in-ukraine-s-kharkiv-says-mayor/story/)
+Append: [US, Russia set for a showdown at UN over nuclear weapons in space](https://www.gmanetwork.com/news/topstories/world/904573/us-russia-set-for-a-showdown-at-un-over-nuclear-weapons-in-space/story/)
+append_entries: 5
+Finish: 2024-04-24 00:51:06.554317
