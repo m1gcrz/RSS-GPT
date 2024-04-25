@@ -4,14 +4,15 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Introducing the Marked Conductor</title>
 <link>https://brett.trpstra.net/link/535/16664804/introducing-the-marked-conductor</link>
 <guid>https://brett.trpstra.net/link/535/16664804/introducing-the-marked-conductor</guid>
 <content:encoded><![CDATA[
-<div> Marked, Conductor, Custom Processors, Pandoc, YAML<br>
-Summary:<br>
-The article introduces a new side project called Conductor, which is a command-line utility designed to work with Marked and Custom Processors. Conductor allows users to set up conditions in a YAML configuration file to trigger different scripts or commands based on specific criteria, such as file types or content. This tool streamlines the process of handling different types of documents for users who may not have scripting knowledge, making it easy to customize how Markdown (and other) flavors are processed in Marked. With features like matching YAML frontmatter keys, content matching with strings or regular expressions, and detecting file and directory existence, Conductor offers a versatile solution for conditional processing. The project is available as a gem for easy installation and usage, providing a convenient way to enhance the functionality of Marked for various document processing needs. Stay tuned for more updates on the project and its integration with Obsidian for a seamless user experience.<br><br>Summary: <div>
+<div> Marked, Conductor, Custom Processors, Pandoc, YAML<br />
+Summary:<br />
+The article introduces a new side project called Conductor, which is a command-line utility designed to work with Marked and Custom Processors. Conductor allows users to set up conditions in a YAML configuration file to trigger different scripts or commands based on specific criteria, such as file types or content. This tool streamlines the process of handling different types of documents for users who may not have scripting knowledge, making it easy to customize how Markdown (and other) flavors are processed in Marked. With features like matching YAML frontmatter keys, content matching with strings or regular expressions, and detecting file and directory existence, Conductor offers a versatile solution for conditional processing. The project is available as a gem for easy installation and usage, providing a convenient way to enhance the functionality of Marked for various document processing needs. Stay tuned for more updates on the project and its integration with Obsidian for a seamless user experience.<br /><br />Summary: <div>
 <p>I&rsquo;ve completed my latest side project, the Marked <a href="https://brettterpstra.com/projects/conductor">Conductor</a>. Here&rsquo;s the backstory:</p>
 
 
@@ -39,9 +40,7 @@ The article introduces a new side project called Conductor, which is a command-l
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16664804.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-04-25T13:27:00-05:00</pubDate>
-<pubDate>2024-04-25T13:27:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Web Excursions for April 22, 2024</title>
 <link>https://brett.trpstra.net/link/535/16657056/web-excursions-for-april-22-2024</link>
