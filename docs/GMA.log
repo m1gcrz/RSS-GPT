@@ -5672,3 +5672,15 @@ Append: [PH to import 25000 MT fish --DA](https://www.gmanetwork.com/news/topsto
 Append: [Batang lalaki sa Cebu na nakoryente nang kunin ang sumabit na saranggola, masuwerteng nakaligtas](https://www.gmanetwork.com/news/topstories/ulatfilipino/904923/batang-lalaki-sa-cebu-na-nakoryente-nang-kunin-ang-sumabit-na-saranggola-masuwerteng-nakaligtas/story/)
 append_entries: 6
 Finish: 2024-04-26 18:13:57.291681
+------------------------------------------------------
+Started: 2024-04-26 20:12:26.693192
+Existing_entries: 1006
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [Taiwan rattled by quakes again, no immediate reports of damage](https://www.gmanetwork.com/news/topstories/world/904930/taiwan-rattled-by-quakes-again-no-immediate-reports-of-damage/story/)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [Pope Francis will attend G7 summit to discuss AI, Italy says](https://www.gmanetwork.com/news/topstories/world/904929/pope-francis-will-attend-g7-summit-to-discuss-ai-italy-says/story/)
+append_entries: 2
+Finish: 2024-04-26 20:12:31.694944
