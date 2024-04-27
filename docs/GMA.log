@@ -5776,3 +5776,19 @@ Summarized using GPT-3.5-turbo
 Append: [DND, NSC: 'Common understanding' on WPS is China propaganda](https://www.gmanetwork.com/news/topstories/nation/904971/dnd-common-understanding-on-wps-is-china-propaganda/story/)
 append_entries: 3
 Finish: 2024-04-27 10:12:29.357094
+------------------------------------------------------
+Started: 2024-04-27 12:18:00.397187
+Existing_entries: 1003
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [China ship shadows PH, US vessels at WPS during Balikatan exercise](https://www.gmanetwork.com/news/topstories/nation/904981/china-ship-shadows-ph-us-vessels-at-wps-during-balikatan-exercise/story/)
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [Pasahero, patay nang mabagsakan ng poste ang sinasakyang tricycle sa Antipolo; driver sugatan](https://www.gmanetwork.com/news/topstories/ulatfilipino/904984/pasahero-patay-nang-mabagsakan-ng-poste-ang-sinasakyang-tricycle-sa-antipolo-driver-sugatan/story/)
+Token length: 88
+Summarized using GPT-3.5-turbo
+Append: [Veteran lawmaker Elpidio Barzaga Jr. passes away](https://www.gmanetwork.com/news/topstories/nation/904979/veteran-lawmaker-elpidio-barzaga-jr-passes-away/story/)
+Append: [Some Metro Manila universities shift to online classes ahead of transport strike](https://www.gmanetwork.com/news/topstories/metro/904978/some-metro-manila-universities-shift-to-online-classes-ahead-of-transport-strike/story/)
+append_entries: 4
+Finish: 2024-04-27 12:18:09.623017
