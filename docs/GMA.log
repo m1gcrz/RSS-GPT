@@ -5822,3 +5822,9 @@ Existing_entries: 1002
 Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
 append_entries: 0
 Finish: 2024-04-27 18:13:08.502796
+------------------------------------------------------
+Started: 2024-04-27 20:10:45.448780
+Existing_entries: 1000
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+append_entries: 0
+Finish: 2024-04-27 20:10:46.807142
