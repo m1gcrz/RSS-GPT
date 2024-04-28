@@ -5840,3 +5840,20 @@ Existing_entries: 1000
 Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
 append_entries: 0
 Finish: 2024-04-28 00:55:10.868250
+------------------------------------------------------
+Started: 2024-04-28 02:25:37.500098
+Existing_entries: 1000
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [Bicolano engineer develops thermal insulating powder](https://www.gmanetwork.com/news/topstories/regions/905002/bicolano-engineer-develops-thermal-insulating-powder/story/)
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [Fragile Pope Francis back on the road with day trip to Venice](https://www.gmanetwork.com/news/topstories/world/905001/fragile-pope-francis-back-on-the-road-with-day-trip-to-venice/story/)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [Comelec eyes arrival of first 20K counting machines for 2025 polls in August](https://www.gmanetwork.com/news/topstories/nation/905000/comelec-eyes-arrival-of-first-20k-counting-machines-for-2025-polls-in-august/story/)
+Append: [Earthquake of magnitude 6.3 rocks Indonesia's Java, GFZ says](https://www.gmanetwork.com/news/topstories/world/904999/earthquake-of-magnitude-6-3-rocks-indonesia-s-java-gfz-says/story/)
+Append: [NAIA Terminal 3 cooling towers bog down](https://www.gmanetwork.com/news/topstories/metro/904997/naia-terminal-3-cooling-towers-bog-down/story/)
+append_entries: 5
+Finish: 2024-04-28 02:25:48.444098
