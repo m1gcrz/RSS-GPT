@@ -5857,3 +5857,19 @@ Append: [Earthquake of magnitude 6.3 rocks Indonesia's Java, GFZ says](https://w
 Append: [NAIA Terminal 3 cooling towers bog down](https://www.gmanetwork.com/news/topstories/metro/904997/naia-terminal-3-cooling-towers-bog-down/story/)
 append_entries: 5
 Finish: 2024-04-28 02:25:48.444098
+------------------------------------------------------
+Started: 2024-04-28 04:12:45.725478
+Existing_entries: 1005
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [PH forces ready vs WPS threats by end of Marcos term -- Amb. Romualdez](https://www.gmanetwork.com/news/topstories/nation/905012/ph-forces-ready-vs-wps-threats-by-end-of-marcos-term-amb-romualdez/story/)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [P2-M worth of kush, cannabis oil found inside vape pens at NAIA](https://www.gmanetwork.com/news/topstories/nation/905010/p2-m-worth-of-kush-cannabis-oil-found-inside-vape-pens-at-naia/story/)
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [MWSS: Water supply still sufficient despite El Niño affecting Angat Dam](https://www.gmanetwork.com/news/topstories/nation/905005/mwss-water-supply-still-sufficient-despite-el-nino-affecting-angat-dam/story/)
+Append: [8-year-old dubbed 'Youngest Weaver" in Ilocos Norte](https://www.gmanetwork.com/news/topstories/regions/905004/8-year-old-dubbed-youngest-weaver-in-ilocos-norte/story/)
+append_entries: 4
+Finish: 2024-04-28 04:12:54.594120
