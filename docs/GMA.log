@@ -5949,3 +5949,18 @@ Append: [Pulis, patay nang mabaril ng 8-anyos na anak](https://www.gmanetwork.co
 Append: [Motorcycle taxi rider nabbed for allegedly selling shabu to passengers](https://www.gmanetwork.com/news/topstories/metro/905052/motorcycle-taxi-rider-nabbed-for-allegedly-selling-shabu-to-passengers/story/)
 append_entries: 4
 Finish: 2024-04-28 14:09:28.276015
+------------------------------------------------------
+Started: 2024-04-28 16:12:44.629853
+Existing_entries: 1004
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [China confronts Japanese politicians visiting East China Sea islands](https://www.gmanetwork.com/news/topstories/world/905058/china-confronts-japanese-politicians-visiting-east-china-sea-islands/story/)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [Ukraine pulls back from three villages as eastern front worsens, top commander says](https://www.gmanetwork.com/news/topstories/world/905057/ukraine-pulls-back-from-three-villages-as-eastern-front-worsens-top-commander-says/story/)
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [Israel agrees to listen to US concerns before Rafah move, says White House](https://www.gmanetwork.com/news/topstories/world/905055/israel-agrees-to-listen-to-us-concerns-before-rafah-move-says-white-house/story/)
+append_entries: 3
+Finish: 2024-04-28 16:12:55.521799
