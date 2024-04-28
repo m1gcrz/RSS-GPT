@@ -5917,3 +5917,19 @@ Summarized using GPT-3.5-turbo
 Append: [House to focus oversight on rice prices, cybersecurity and WPS](https://www.gmanetwork.com/news/topstories/nation/905034/house-to-focus-oversight-on-rice-prices-cybersecurity-and-wps/story/)
 append_entries: 2
 Finish: 2024-04-28 10:12:00.733011
+------------------------------------------------------
+Started: 2024-04-28 12:20:39.763083
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [China Navy, patuloy ang presensya sa nagaganap na Balikatan Exercise sa WPS](https://www.gmanetwork.com/news/topstories/ulatfilipino/905049/china-navy-patuloy-ang-presensya-sa-nagaganap-na-balikatan-exercise-sa-wps/story/)
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: ['Global Boiling': Metro Manila hits all-time high record of 45°C heat index](https://www.gmanetwork.com/news/topstories/nation/905050/global-boiling-metro-manila-hits-all-time-high-record-of-45-deg-c-heat-index/story/)
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [More Chinese ships shadowing PH, US navies during Balikatan](https://www.gmanetwork.com/news/topstories/nation/905048/more-chinese-ships-shadowing-ph-us-navies-during-balikatan/story/)
+Append: [Some US officials say in internal memo Israel may be violating international law in Gaza](https://www.gmanetwork.com/news/topstories/world/905039/israel-violating-international-law-gaza/story/)
+append_entries: 4
+Finish: 2024-04-28 12:20:48.769974
