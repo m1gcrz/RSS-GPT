@@ -5933,3 +5933,19 @@ Append: [More Chinese ships shadowing PH, US navies during Balikatan](https://ww
 Append: [Some US officials say in internal memo Israel may be violating international law in Gaza](https://www.gmanetwork.com/news/topstories/world/905039/israel-violating-international-law-gaza/story/)
 append_entries: 4
 Finish: 2024-04-28 12:20:48.769974
+------------------------------------------------------
+Started: 2024-04-28 14:09:17.585381
+Existing_entries: 1004
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [Chinese-flagged research vessel detected near Catanduanes --AFP](https://www.gmanetwork.com/news/topstories/nation/905054/chinese-flagged-research-vessel-detected-near-catanduanes-afp/story/)
+Token length: 73
+Summarized using GPT-3.5-turbo
+Append: [Carmen, Cotabato, inulan ng yelo](https://www.gmanetwork.com/news/topstories/ulatfilipino/905044/carmen-cotabato-inulan-ng-yelo/story/)
+Token length: 98
+Summarized using GPT-3.5-turbo
+Append: [Pulis, patay nang mabaril ng 8-anyos na anak](https://www.gmanetwork.com/news/topstories/ulatfilipino/905042/pulis-patay-nang-mabaril-ng-8-anyos-na-anak/story/)
+Append: [Motorcycle taxi rider nabbed for allegedly selling shabu to passengers](https://www.gmanetwork.com/news/topstories/metro/905052/motorcycle-taxi-rider-nabbed-for-allegedly-selling-shabu-to-passengers/story/)
+append_entries: 4
+Finish: 2024-04-28 14:09:28.276015
