@@ -5989,3 +5989,9 @@ Summarized using GPT-3.5-turbo
 Append: [Pro-Palestinian campus protests spread across US despite police crackdowns](https://www.gmanetwork.com/news/topstories/world/905063/pro-palestinian-campus-protests-spread-across-us-despite-police-crackdowns/story/)
 append_entries: 1
 Finish: 2024-04-28 20:11:45.657176
+------------------------------------------------------
+Started: 2024-04-28 22:10:30.690404
+Existing_entries: 1001
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+append_entries: 0
+Finish: 2024-04-28 22:10:31.586711
