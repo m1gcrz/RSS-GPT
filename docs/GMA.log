@@ -6181,3 +6181,9 @@ Append: [Flash floods, landslide kill at least 45 in central Kenya](https://www.
 Append: [Braso na may kamay na tumubo sa likod ng isang babae, natanggal na](https://www.gmanetwork.com/news/topstories/ulatfilipino/905187/braso-na-may-kamay-na-tumubo-sa-likod-ng-isang-babae-natanggal-na/story/)
 append_entries: 5
 Finish: 2024-04-29 18:14:42.888212
+------------------------------------------------------
+Started: 2024-04-29 20:11:54.262964
+Existing_entries: 1005
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+append_entries: 0
+Finish: 2024-04-29 20:11:55.785098
