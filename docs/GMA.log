@@ -6505,3 +6505,20 @@ Summarized using GPT-3.5-turbo
 Append: [Firing employee due to HIV illegal -- SC](https://www.gmanetwork.com/news/topstories/nation/905413/firing-employee-due-to-hiv-illegal-sc/story/)
 append_entries: 3
 Finish: 2024-05-01 10:13:04.673134
+------------------------------------------------------
+Started: 2024-05-01 12:21:09.926637
+Existing_entries: 1003
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [Marcos eyes alliance with Lakas, NPC, NP, NUP](https://www.gmanetwork.com/news/topstories/nation/905430/marcos-eyes-alliance-with-lakas-npc-np-nup-ahead-of-eleksyon-2025/story/)
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [Ecuador accuses Mexico of blatant interference at World Court hearing](https://www.gmanetwork.com/news/topstories/world/905425/ecuador-accuses-mexico-of-blatant-interference-at-world-court-hearing/story/)
+Token length: 94
+Summarized using GPT-3.5-turbo
+Append: [Angeli Khang, 4 taon nang single; ano kaya ang hinahanap sa isang lalaki?](https://www.gmanetwork.com/news/topstories/ulatfilipino/905423/angeli-khang-4-taon-nang-single-ano-kaya-ang-hinahanap-sa-isang-lalaki/story/)
+Append: [Lawmakers: PH should 'double down' defense in WPS](https://www.gmanetwork.com/news/topstories/nation/905420/lawmakers-ph-should-double-down-defense-in-wps/story/)
+Append: [Unconsolidated jeeps considered colorum if they ply routes, says DOTr exec](https://www.gmanetwork.com/news/topstories/nation/905421/unconsolidated-jeeps-considered-colorum-if-they-ply-routes-says-dotr-exec/story/)
+append_entries: 5
+Finish: 2024-05-01 12:21:22.960002
