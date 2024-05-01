@@ -6452,3 +6452,20 @@ Append: [LTO issues show-cause order vs. driver, owner of bus in Fairview, QC ac
 Append: [PH says China Coast Guard elevating tensions in WPS](https://www.gmanetwork.com/news/topstories/nation/905360/philippines-china-tensions-west-ph-sea/story/)
 append_entries: 6
 Finish: 2024-05-01 04:13:34.321396
+------------------------------------------------------
+Started: 2024-05-01 06:16:11.743806
+Existing_entries: 1006
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [South Korea discusses joining part of AUKUS pact with US, UK and Australia](https://www.gmanetwork.com/news/topstories/world/905389/south-korea-discusses-joining-part-of-aukus-pact-with-us-uk-and-australia/story/)
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [PAGASA: 1 to 2 tropical cyclones may enter PAR in May](https://www.gmanetwork.com/news/topstories/nation/905383/pagasa-1-to-2-tropical-cyclones-may-enter-par-in-may/story/)
+Token length: 89
+Summarized using GPT-3.5-turbo
+Append: [Lalaki, namatay habang dumadalo sa handaan sa kasalan sa Pangasinan](https://www.gmanetwork.com/news/topstories/ulatfilipino/905380/lalaki-namatay-habang-dumadalo-sa-handaan-sa-kasalan-sa-pangasinan/story/)
+Append: [6 arrested as cops, protestors clash near US Embassy on Labor Day](https://www.gmanetwork.com/news/topstories/metro/905381/cops-protestors-clash-near-us-embassy-on-labor-day/story/)
+Append: [Luzon Grid on yellow alert Wednesday evening -- NGCP](https://www.gmanetwork.com/news/topstories/nation/905375/luzon-grid-on-yellow-alert-wednesday-evening-ngcp/story/)
+append_entries: 5
+Finish: 2024-05-01 06:16:27.309846
