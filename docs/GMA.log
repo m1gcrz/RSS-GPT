@@ -6553,3 +6553,19 @@ Summarized using GPT-3.5-turbo
 Append: [Sandiganbayan finds ex-QC councilor guilty of graft](https://www.gmanetwork.com/news/topstories/nation/905442/sandiganbayan-finds-ex-qc-councilor-guilty-of-graft/story/)
 append_entries: 3
 Finish: 2024-05-01 16:14:09.374915
+------------------------------------------------------
+Started: 2024-05-01 18:14:33.191988
+Existing_entries: 1003
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [We need to feed our families, say drivers of unconsolidated jeeps](https://www.gmanetwork.com/news/topstories/nation/905448/we-need-to-feed-our-families-say-drivers-of-unconsolidated-jeeps/story/)
+Token length: 108
+Summarized using GPT-3.5-turbo
+Append: [16 nabbed in alleged illegal online raffle in Biñan](https://www.gmanetwork.com/news/topstories/regions/905450/16-nabbed-in-alleged-illegal-online-raffle-in-binan/story/)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [Doktor, nagbabala laban sa food poisoning ngayong mainit ang panahon](https://www.gmanetwork.com/news/topstories/ulatfilipino/905446/doktor-nagbabala-laban-sa-food-poisoning-ngayong-mainit-ang-panahon/story/)
+Append: ['Shrine of Healing' inaugurated for EJK victims in Laloma cemetery](https://www.gmanetwork.com/news/topstories/metro/905447/shrine-of-healing-inaugurated-for-ejk-victims-in-laloma-cemetery/story/)
+append_entries: 4
+Finish: 2024-05-01 18:14:46.880394
