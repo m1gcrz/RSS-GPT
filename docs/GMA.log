@@ -6759,3 +6759,12 @@ Append: [Mas malaking bahagi ng pinalubog noon na lumang bayan ng Pantabangan, l
 Append: [Gaza post-war reconstruction at scale unseen since World War II --UN](https://www.gmanetwork.com/news/topstories/world/905545/gaza-post-war-reconstruction-at-scale-unseen-since-world-war-ii-un/story/)
 append_entries: 5
 Finish: 2024-05-02 18:14:44.424274
+------------------------------------------------------
+Started: 2024-05-02 20:12:25.009640
+Existing_entries: 1005
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [France, Japan to start talks on reciprocal troops pact](https://www.gmanetwork.com/news/topstories/world/905568/france-japan-to-start-talks-on-reciprocal-troops-pact/story/)
+append_entries: 1
+Finish: 2024-05-02 20:12:31.377883
