@@ -6813,3 +6813,19 @@ Summarized using GPT-3.5-turbo
 Append: [Nurse shot dead by motorcycle rider he was trying to help in Caloocan](https://www.gmanetwork.com/news/topstories/metro/905589/nurse-killed-by-motorcycle-rider-caloocan/story/)
 append_entries: 1
 Finish: 2024-05-03 04:15:07.890994
+------------------------------------------------------
+Started: 2024-05-03 06:15:10.546336
+Existing_entries: 1001
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [WPS civilian mission to proceed despite China"s recent water cannon attack](https://www.gmanetwork.com/news/topstories/nation/905601/wps-mission-to-proceed-despite-china-attack/story/)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [Makati announces road closure, rerouting scheme for Flores de Mayo](https://www.gmanetwork.com/news/topstories/metro/905599/makati-announces-road-closure-rerouting-scheme-for-flores-de-mayo/story/)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [PCG border force trains for close quarter battle](https://www.gmanetwork.com/news/topstories/nation/905596/pcg-border-force-trains-for-close-quarter-battle/story/)
+Append: [Police captain, patay nang pagbabarilin ng 5 lalaki sa Maguindanao del Norte](https://www.gmanetwork.com/news/topstories/ulatfilipino/905595/police-captain-patay-nang-pagbabarilin-ng-5-lalaki-sa-maguindanao-del-norte/story/)
+append_entries: 4
+Finish: 2024-05-03 06:15:21.985690
