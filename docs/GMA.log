@@ -6886,3 +6886,21 @@ Summarized using GPT-3.5-turbo
 Append: [Magnitude 5.8 earthquake jolts Leyte](https://www.gmanetwork.com/news/topstories/regions/905644/magnitude-6-earthquake-jolts-leyte/story/)
 append_entries: 3
 Finish: 2024-05-03 12:19:51.286533
+------------------------------------------------------
+Started: 2024-05-03 14:11:27.417669
+Existing_entries: 1003
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [P145.5 million in shabu seized in largest Zamboanga Peninsula buy-bust](https://www.gmanetwork.com/news/topstories/regions/905653/p145-5-million-in-shabu-seized-in-largest-zamboanga-peninsula-buy-bust/story/)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [Filipino conjoined twins to undergo separation surgery in Saudi Arabia](https://www.gmanetwork.com/news/topstories/nation/905656/filipino-conjoined-twins-to-undergo-separation-surgery-in-saudi-arabia/story/)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Marcos aspires to hunger-free Philippines](https://www.gmanetwork.com/news/topstories/nation/905638/marcos-aspires-to-hunger-free-philippines/story/)
+Append: [PhilSA issues advisory on debris from China rocket launch](https://www.gmanetwork.com/news/topstories/nation/905651/philsa-issues-advisory-on-debris-from-china-rocket-launch/story/)
+Append: [Marcos: Journalists" work more crucial amid fake news](https://www.gmanetwork.com/news/topstories/nation/905650/marcos-journalists-work-more-crucial-amid-fake-news/story/)
+Append: [CBCP releases 'Oratio Imperata' for rain amid extreme heat](https://www.gmanetwork.com/news/topstories/nation/905649/cbcp-releases-oratio-imperata-for-rain-amid-extreme-heat/story/)
+append_entries: 6
+Finish: 2024-05-03 14:11:40.091568
