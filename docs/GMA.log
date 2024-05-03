@@ -6936,3 +6936,18 @@ Summarized using GPT-3.5-turbo
 Append: [18-anyos at 2 menor de edad na suspek sa panghoholdap sa Pasig at Rizal, nasakote](https://www.gmanetwork.com/news/topstories/ulatfilipino/905671/18-anyos-at-2-menor-de-edad-na-suspek-sa-panghoholdap-sa-pasig-at-rizal-nasakote/story/)
 append_entries: 2
 Finish: 2024-05-03 18:14:23.977059
+------------------------------------------------------
+Started: 2024-05-03 20:12:29.264365
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [Two persons hurt in Leyte earthquake](https://www.gmanetwork.com/news/topstories/regions/905677/two-persons-hurt-in-leyte-earthquake/story/)
+Token length: 295
+Summarized using GPT-3.5-turbo
+Append: [Cedric Lee, nasa NBP na; Deniece Cornejo, sa Correctional naman](https://www.gmanetwork.com/news/topstories/ulatfilipino/905676/cedric-lee-nasa-nbp-na-deniece-cornejo-sa-correctional-naman/story/)
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [4 siblings rescued in Lanao del Sur after alleged abuse by cousin, grandfather](https://www.gmanetwork.com/news/topstories/regions/905675/4-siblings-rescued-in-lanao-del-sur-after-alleged-abuse-by-cousin-grandfather/story/)
+append_entries: 3
+Finish: 2024-05-03 20:12:41.335796
