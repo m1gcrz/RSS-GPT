@@ -6871,3 +6871,18 @@ Append: [Aircon sa isang municipal health office sa Pangasinan, tinangay ng mga 
 Append: [Lalaki, huli sa panggagahasa umano sa menor de edad na kainuman sa Maynila; suspek, iginiit na biktima ang nagyaya](https://www.gmanetwork.com/news/topstories/ulatfilipino/905621/lalaki-huli-sa-panggagahasa-umano-sa-menor-de-edad-na-kainuman-sa-maynila-suspek-iginiit-na-bikti/story/)
 append_entries: 11
 Finish: 2024-05-03 10:12:27.638583
+------------------------------------------------------
+Started: 2024-05-03 12:19:38.396116
+Existing_entries: 1011
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [Invoking MDT principally a decision by PH, says Teodoro](https://www.gmanetwork.com/news/topstories/nation/905641/invoking-mdt-principally-a-decision-by-ph-says-teodoro/story/)
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [Amid tensions, South Korea defense ministry assures military readiness at DMZ](https://www.gmanetwork.com/news/topstories/world/905645/amid-tensions-south-korea-defense-ministry-assures-military-readiness-at-dmz/story/)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [Magnitude 5.8 earthquake jolts Leyte](https://www.gmanetwork.com/news/topstories/regions/905644/magnitude-6-earthquake-jolts-leyte/story/)
+append_entries: 3
+Finish: 2024-05-03 12:19:51.286533
