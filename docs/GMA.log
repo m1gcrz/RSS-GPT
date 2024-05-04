@@ -6999,3 +6999,19 @@ Summarized using GPT-3.5-turbo
 Append: [DSWD on latest SWS survey: Food stamp program to address hunger](https://www.gmanetwork.com/news/topstories/nation/905685/dswd-on-latest-sws-survey-food-stamp-program-to-address-hunger/story/)
 append_entries: 3
 Finish: 2024-05-04 04:14:22.425391
+------------------------------------------------------
+Started: 2024-05-04 06:14:49.609741
+Existing_entries: 1003
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [PH, US, Japan, Australia defense chiefs slam China's 'dangerous use' of vessels](https://www.gmanetwork.com/news/topstories/nation/905702/ph-us-japan-australia-defense-chiefs-slam-china-s-dangerous-use-of-vessels/story/)
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [Floods in Indonesia's South Sulawesi kill 14](https://www.gmanetwork.com/news/topstories/world/905700/floods-in-indonesia-s-south-sulawesi-kill-14/story/)
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [China is only country with will to 'reshape global order' --US Defense chief](https://www.gmanetwork.com/news/topstories/world/905695/china-is-only-country-with-will-to-reshape-global-order-us-defense-chief/story/)
+Append: [Heat-related illness cases rise to 77, DOH says](https://www.gmanetwork.com/news/topstories/nation/905693/heat-related-illness-cases-rise-to-77-doh-says/story/)
+append_entries: 4
+Finish: 2024-05-04 06:14:59.375829
