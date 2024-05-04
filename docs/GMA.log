@@ -7033,3 +7033,12 @@ Append: [Palace revamps promotion board, awards committee](https://www.gmanetwo
 Append: [Student arrested for practicing dentistry without license](https://www.gmanetwork.com/news/topstories/regions/905705/student-arrested-for-practicing-dentistry-without-license/story/)
 append_entries: 6
 Finish: 2024-05-04 08:13:22.853592
+------------------------------------------------------
+Started: 2024-05-04 10:10:39.921095
+Existing_entries: 1006
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [South Korea now accepts Filipino tourist visa applications via mail](https://www.gmanetwork.com/news/topstories/nation/905714/south-korea-now-accepts-filipino-tourist-visa-applications-via-mail/story/)
+append_entries: 1
+Finish: 2024-05-04 10:10:42.727876
