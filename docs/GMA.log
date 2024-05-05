@@ -7115,3 +7115,20 @@ Summarized using GPT-3.5-turbo
 Append: [Hamas official says group will not accept truce that does not end Gaza war](https://www.gmanetwork.com/news/topstories/world/905738/hamas-official-says-group-will-not-accept-truce-that-does-not-end-gaza-war/story/)
 append_entries: 3
 Finish: 2024-05-05 00:55:08.788599
+------------------------------------------------------
+Started: 2024-05-05 02:24:30.401882
+Existing_entries: 1003
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [20 land in hospital in road accident in Cebu](https://www.gmanetwork.com/news/topstories/regions/905751/20-land-in-hospital-in-road-accident-in-cebu/story/)
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [Israeli forces kill Hamas gunmen in overnight raid near West Bank's Tulkarm](https://www.gmanetwork.com/news/topstories/world/905748/israeli-forces-kill-hamas-gunmen-in-overnight-raid-near-west-bank-s-tulkarm/story/)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [Marcos orders creation of master list of government lands](https://www.gmanetwork.com/news/topstories/nation/905746/marcos-orders-creation-of-master-list-of-government-lands/story/)
+Append: [Netherlands remembers World War Two dead amid tight security due to Gaza war](https://www.gmanetwork.com/news/topstories/world/905745/netherlands-remembers-world-war-two-dead-amid-tight-security-due-to-gaza-war/story/)
+Append: [Comelec: Over 2.5 million new voters registered for 2025 polls](https://www.gmanetwork.com/news/topstories/nation/905743/comelec-over-2-5-million-new-voters-registered-for-2025-polls/story/)
+append_entries: 5
+Finish: 2024-05-05 02:24:40.926772
