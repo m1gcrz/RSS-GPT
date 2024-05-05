@@ -7236,3 +7236,21 @@ Summarized using GPT-3.5-turbo
 Append: [Hamas armed wing says responsible for Israel-Gaza border crossing attack](https://www.gmanetwork.com/news/topstories/world/905807/hamas-armed-wing-says-responsible-for-israel-gaza-border-crossing-attack/story/)
 append_entries: 3
 Finish: 2024-05-05 16:13:37.415040
+------------------------------------------------------
+Started: 2024-05-05 18:13:16.869766
+Existing_entries: 1003
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [Luis Manzano, nagpa-biopsy para alamin kung cancerous ang inakala niyang 'nunal' sa ulo](https://www.gmanetwork.com/news/topstories/ulatfilipino/905819/luis-manzano-nagpa-biopsy-para-alamin-kung-cancerous-ang-inakala-niyang-nunal-sa-ulo/story/)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [1 bata at 1 babae, patay nang maaksidente ang sinasakyang van sa Cebu; 21 pa, sugatan](https://www.gmanetwork.com/news/topstories/ulatfilipino/905817/1-bata-at-1-babae-patay-nang-maaksidente-ang-sinasakyang-van-sa-cebu-21-pa-sugatan/story/)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [Babae, nahati ang katawan nang masagasaan ng truck sa Cebu City](https://www.gmanetwork.com/news/topstories/ulatfilipino/905815/babae-nahati-ang-katawan-nang-masagasaan-ng-truck-sa-cebu-city/story/)
+Append: [Panama votes to elect new president in tight elections](https://www.gmanetwork.com/news/topstories/world/905814/panama-votes-to-elect-new-president-in-tight-elections/story/)
+Append: [Israel authorities order Al Jazeera shutdown, raid office](https://www.gmanetwork.com/news/topstories/world/905812/israel-authorities-order-al-jazeera-shutdown-raid-office/story/)
+Append: [Grassfire hits foot of Mayon Volcano in Albay](https://www.gmanetwork.com/news/topstories/regions/905810/grassfire-hits-foot-of-mayon-volcano-in-albay/story/)
+append_entries: 6
+Finish: 2024-05-05 18:13:28.968447
