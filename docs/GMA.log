@@ -7254,3 +7254,9 @@ Append: [Israel authorities order Al Jazeera shutdown, raid office](https://www.
 Append: [Grassfire hits foot of Mayon Volcano in Albay](https://www.gmanetwork.com/news/topstories/regions/905810/grassfire-hits-foot-of-mayon-volcano-in-albay/story/)
 append_entries: 6
 Finish: 2024-05-05 18:13:28.968447
+------------------------------------------------------
+Started: 2024-05-05 20:11:15.806133
+Existing_entries: 1006
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+append_entries: 0
+Finish: 2024-05-05 20:11:17.265446
