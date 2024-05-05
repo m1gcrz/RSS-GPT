@@ -7100,3 +7100,18 @@ Existing_entries: 1000
 Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
 append_entries: 0
 Finish: 2024-05-04 22:09:56.144537
+------------------------------------------------------
+Started: 2024-05-05 00:54:59.268901
+Existing_entries: 1000
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Four areas positive for toxic red tide, BFAR says](https://www.gmanetwork.com/news/topstories/regions/905741/four-areas-positive-for-toxic-red-tide-bfar-says/story/)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [Heavy rains in southern Brazil kill nearly 60, over 70 still missing](https://www.gmanetwork.com/news/topstories/world/905740/heavy-rains-in-southern-brazil-kill-nearly-60-over-70-still-missing/story/)
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [Hamas official says group will not accept truce that does not end Gaza war](https://www.gmanetwork.com/news/topstories/world/905738/hamas-official-says-group-will-not-accept-truce-that-does-not-end-gaza-war/story/)
+append_entries: 3
+Finish: 2024-05-05 00:55:08.788599
