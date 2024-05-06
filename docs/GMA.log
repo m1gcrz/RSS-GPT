@@ -7266,3 +7266,15 @@ Existing_entries: 1000
 Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
 append_entries: 0
 Finish: 2024-05-05 22:11:51.798834
+------------------------------------------------------
+Started: 2024-05-06 00:52:49.446031
+Existing_entries: 1000
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [Israel attacks Rafah after Hamas claims responsibility for deadly rocket attack](https://www.gmanetwork.com/news/topstories/world/905822/israel-attacks-rafah-after-hamas-claims-responsibility-for-deadly-rocket-attack/story/)
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: [Death toll from southern Brazil rainfall rises to 78, many still missing](https://www.gmanetwork.com/news/topstories/world/905821/death-toll-from-southern-brazil-rainfall-rises-to-78-many-still-missing/story/)
+append_entries: 2
+Finish: 2024-05-06 00:52:56.521794
