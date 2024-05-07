@@ -7654,3 +7654,9 @@ Append: [Fire volunteer's home one of 40 razed in Manila blaze](https://www.gman
 Append: [Pro-Palestinian protest in Amsterdam turns violent as cops use batons, bulldozer](https://www.gmanetwork.com/news/topstories/world/906057/pro-palestinian-protest-in-amsterdam-turns-violent-as-cops-use-batons-bulldozer/story/)
 append_entries: 5
 Finish: 2024-05-07 18:15:01.597118
+------------------------------------------------------
+Started: 2024-05-07 20:10:11.469159
+Existing_entries: 1005
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+append_entries: 0
+Finish: 2024-05-07 20:10:12.116064
