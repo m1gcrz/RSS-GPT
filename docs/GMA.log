@@ -7660,3 +7660,12 @@ Existing_entries: 1005
 Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
 append_entries: 0
 Finish: 2024-05-07 20:10:12.116064
+------------------------------------------------------
+Started: 2024-05-07 22:11:31.307796
+Existing_entries: 1000
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [Japan, China, South Korea preparing to hold summit in late May, NHK reports](https://www.gmanetwork.com/news/topstories/world/906065/japan-china-south-korea-preparing-to-hold-summit-in-late-may-nhk-reports/story/)
+append_entries: 1
+Finish: 2024-05-07 22:11:35.142289
