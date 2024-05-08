@@ -7691,3 +7691,20 @@ Existing_entries: 1004
 Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
 append_entries: 0
 Finish: 2024-05-08 02:12:36.480386
+------------------------------------------------------
+Started: 2024-05-08 04:12:00.689374
+Existing_entries: 1000
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [Marcos party PFP, Lakas-CMD ink alliance, to field common Senate bets](https://www.gmanetwork.com/news/topstories/nation/906091/pfp-lakas-cmd-alliance-common-senate-bets-2025-polls/story/)
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [DOJ's Remulla orders probe on NBP strip searches](https://www.gmanetwork.com/news/topstories/nation/906088/doj-s-remulla-orders-probe-on-nbp-strip-searches/story/)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [Bong Revilla says he's on his way to recovery](https://www.gmanetwork.com/news/topstories/nation/906087/bong-revilla-says-he-s-on-his-way-to-recovery/story/)
+Append: [Quiboloy camp surrendered 5 firearms, says PNP](https://www.gmanetwork.com/news/topstories/nation/906086/quiboloy-firearms-pnp/story/)
+Append: [DOJ to give Marcos 'briefer' on legal options for possible ICC warrants](https://www.gmanetwork.com/news/topstories/nation/906084/doj-marcos-briefer-icc-warrants/story/)
+append_entries: 5
+Finish: 2024-05-08 04:12:10.391895
