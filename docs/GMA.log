@@ -7685,3 +7685,9 @@ Append: [Families flee as tension between armed groups brews in Mamasapano](http
 Append: [Brazil floods leave 150,000 homeless, scores dead or missing](https://www.gmanetwork.com/news/topstories/world/906069/brazil-floods-leave-150-000-homeless-scores-dead-or-missing/story/)
 append_entries: 4
 Finish: 2024-05-08 00:42:27.527487
+------------------------------------------------------
+Started: 2024-05-08 02:12:35.569863
+Existing_entries: 1004
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+append_entries: 0
+Finish: 2024-05-08 02:12:36.480386
