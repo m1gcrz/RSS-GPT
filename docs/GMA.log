@@ -7669,3 +7669,19 @@ Summarized using GPT-3.5-turbo
 Append: [Japan, China, South Korea preparing to hold summit in late May, NHK reports](https://www.gmanetwork.com/news/topstories/world/906065/japan-china-south-korea-preparing-to-hold-summit-in-late-may-nhk-reports/story/)
 append_entries: 1
 Finish: 2024-05-07 22:11:35.142289
+------------------------------------------------------
+Started: 2024-05-08 00:42:19.480860
+Existing_entries: 1001
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [Marcos: P59.8-B health emergency allowance distributed to medical frontliners](https://www.gmanetwork.com/news/topstories/nation/906074/marcos-emergency-allowance-frontliners/story/)
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [HRW: PH needs to do more to protect journalists](https://www.gmanetwork.com/news/topstories/nation/906072/hrw-philippines-protect-journalists/story/)
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [Families flee as tension between armed groups brews in Mamasapano](https://www.gmanetwork.com/news/topstories/regions/906071/families-flee-tension-mamasapano/story/)
+Append: [Brazil floods leave 150,000 homeless, scores dead or missing](https://www.gmanetwork.com/news/topstories/world/906069/brazil-floods-leave-150-000-homeless-scores-dead-or-missing/story/)
+append_entries: 4
+Finish: 2024-05-08 00:42:27.527487
