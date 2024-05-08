@@ -7833,3 +7833,19 @@ Append: [AFP on China claim: Audio can be forged with deep fakes](https://www.gm
 Append: [South Gaza hospitals have only three days" fuel left --WHO](https://www.gmanetwork.com/news/topstories/world/906191/south-gaza-hospitals-have-only-three-days-fuel-left-who/story/)
 append_entries: 9
 Finish: 2024-05-08 16:15:04.073200
+------------------------------------------------------
+Started: 2024-05-08 18:15:09.991366
+Existing_entries: 1009
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [Philippines in position to seek 2nd arbitration, says think tank](https://www.gmanetwork.com/news/topstories/nation/906205/philippines-in-position-to-seek-2nd-arbitration-says-think-tank/story/)
+Token length: 246
+Summarized using GPT-3.5-turbo
+Append: [Special permits to be issued in routes without consolidated jeepneys --LTFRB](https://www.gmanetwork.com/news/topstories/metro/906204/special-permits-to-be-issued-in-routes-without-consolidated-jeepneys-ltfrb/story/)
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [Prince Harry appears, alone, for UK Invictus Games service](https://www.gmanetwork.com/news/topstories/world/906202/prince-harry-appears-alone-for-uk-invictus-games-service/story/)
+Append: [National Museum, Cebu archdiocese to discuss terms of return of Boljoon church panels](https://www.gmanetwork.com/news/topstories/regions/906198/national-museum-cebu-archdiocese-to-discuss-terms-of-return-of-boljoon-church-panels/story/)
+append_entries: 4
+Finish: 2024-05-08 18:15:23.841179
