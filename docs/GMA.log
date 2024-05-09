@@ -8016,3 +8016,18 @@ Append: [Woman posing as patient steals from doctors in Luzon clinics](https://w
 Append: [16-anyos na dalagita patay, 2 sugatan sa pamamaril ng rider sa Cebu](https://www.gmanetwork.com/news/topstories/ulatfilipino/906295/16-anyos-na-dalagita-patay-2-sugatan-sa-pamamaril-ng-rider-sa-cebu/story/)
 append_entries: 8
 Finish: 2024-05-09 16:15:08.538093
+------------------------------------------------------
+Started: 2024-05-09 18:13:43.543501
+Existing_entries: 1008
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 122
+Summarized using GPT-3.5-turbo
+Append: [80-anyos na si Batangas gov. Mandanas, ikinasal na sa 32-anyos niyang nobyang abogada](https://www.gmanetwork.com/news/topstories/ulatfilipino/906318/80-anyos-na-si-batangas-gov-mandanas-ikinasal-na-sa-32-anyos-niyang-nobyang-abogada/story/)
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [60 OFWs na mula sa Israel, dumating na sa Pilipinas](https://www.gmanetwork.com/news/topstories/ulatfilipino/906317/60-ofws-na-mula-sa-israel-dumating-na-sa-pilipinas/story/)
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [Pinoy, kasama sa 7 crew ng Portuguese ship na pinalaya ng Iran](https://www.gmanetwork.com/news/topstories/ulatfilipino/906316/pinoy-kasama-sa-7-crew-ng-portuguese-ship-na-pinalaya-ng-iran/story/)
+append_entries: 3
+Finish: 2024-05-09 18:13:56.959048
