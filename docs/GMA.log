@@ -7964,3 +7964,19 @@ Append: [Marcos ICC stance remains consistent, briefer not a change in position]
 Append: [Marcos: Over 3K hectares of farmlands damaged due to El Niño in Zamboanga](https://www.gmanetwork.com/news/topstories/regions/906260/marcos-farmlands-damaged-el-nino-zamboanga/story/)
 append_entries: 7
 Finish: 2024-05-09 10:13:52.626843
+------------------------------------------------------
+Started: 2024-05-09 12:20:23.269382
+Existing_entries: 1007
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [Israeli forces mass on Rafah"s outskirts; US warns a major assault could halt arms](https://www.gmanetwork.com/news/topstories/world/906288/israeli-forces-mass-on-rafah-s-outskirts-us-warns-a-major-assault-could-halt-arms/story/)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [Alleged gang war kills 1, hurts 2 in Liloan, Cebu](https://www.gmanetwork.com/news/topstories/regions/906287/alleged-gang-war-kills-1-hurts-2-in-liloan-cebu/story/)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [Nancy Binay mulls running for Makati mayor in 2025](https://www.gmanetwork.com/news/topstories/nation/906268/nancy-binay-mulls-running-for-makati-mayor-in-2025/story/)
+Append: [PH tightens visa issuance for Chinese tourists amid fraud](https://www.gmanetwork.com/news/topstories/nation/906282/philippines-tightens-visa-issuance-for-chinese-tourists-amid-increase-in-fraud/story/)
+append_entries: 4
+Finish: 2024-05-09 12:20:35.508013
