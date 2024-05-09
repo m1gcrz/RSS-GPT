@@ -7867,3 +7867,18 @@ Summarized using GPT-3.5-turbo
 Append: [Hamas sticks to its approval of truce proposal, senior official says](https://www.gmanetwork.com/news/topstories/world/906209/hamas-sticks-to-its-approval-of-truce-proposal-senior-official-says/story/)
 append_entries: 1
 Finish: 2024-05-08 22:10:20.624947
+------------------------------------------------------
+Started: 2024-05-09 00:52:07.929050
+Existing_entries: 1001
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [Ex-professor sa Cotabato, nag-sorry matapos ipangalan sa kaniya ang thesis ng dating estudyante](https://www.gmanetwork.com/news/topstories/ulatfilipino/906215/ex-professor-sa-cotabato-nag-sorry-matapos-ipangalan-sa-kaniya-ang-thesis-ng-dating-estudyante/story/)
+Token length: 266
+Summarized using GPT-3.5-turbo
+Append: [Rains return to flooded southern Brazil, interrupting rescues](https://www.gmanetwork.com/news/topstories/world/906212/rains-return-to-flooded-southern-brazil-interrupting-rescues/story/)
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [Spend one minute to pray for peace, says CBCP official](https://www.gmanetwork.com/news/topstories/nation/906211/spend-one-minute-to-pray-for-peace-says-cbcp-official/story/)
+append_entries: 3
+Finish: 2024-05-09 00:52:18.746670
