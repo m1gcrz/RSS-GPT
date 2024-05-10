@@ -8052,3 +8052,18 @@ Summarized using GPT-3.5-turbo
 Append: [Man may face charges after being caught on video lifting, whirling dog by the leash](https://www.gmanetwork.com/news/topstories/metro/906322/man-may-face-charges-after-being-caught-on-video-lifting-whirling-dog-by-the-leash/story/)
 append_entries: 2
 Finish: 2024-05-09 22:10:49.227340
+------------------------------------------------------
+Started: 2024-05-10 00:52:04.612475
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 246
+Summarized using GPT-3.5-turbo
+Append: [Chinese warships plan visit to Cambodia amid US worries](https://www.gmanetwork.com/news/topstories/world/906328/chinese-warships-plan-visit-to-cambodia-amid-us-worries/story/)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [Evacuation ordered after blaze at Thai chemical storage tank facility](https://www.gmanetwork.com/news/topstories/world/906327/evacuation-ordered-after-blaze-at-thai-chemical-storage-tank-facility/story/)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [Taiwan says 12 more Chinese ships detected in beefed-up presence](https://www.gmanetwork.com/news/topstories/world/906326/taiwan-says-12-more-chinese-ships-detected-in-beefed-up-presence/story/)
+append_entries: 3
+Finish: 2024-05-10 00:52:18.925289
