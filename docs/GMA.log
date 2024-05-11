@@ -8360,3 +8360,9 @@ Existing_entries: 1001
 Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
 append_entries: 0
 Finish: 2024-05-11 20:12:23.241847
+------------------------------------------------------
+Started: 2024-05-11 22:09:53.286805
+Existing_entries: 1000
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+append_entries: 0
+Finish: 2024-05-11 22:09:54.213879
