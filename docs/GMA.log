@@ -8452,3 +8452,19 @@ Summarized using GPT-3.5-turbo
 Append: [House to invite ex-president Duterte adviser in P3-B Pampanga drug bust inquiry](https://www.gmanetwork.com/news/topstories/nation/906522/house-to-invite-ex-president-duterte-adviser-in-p3-b-pampanga-drug-bust-inquiry/story/)
 append_entries: 2
 Finish: 2024-05-12 10:10:56.512043
+------------------------------------------------------
+Started: 2024-05-12 12:20:56.912614
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [Chinese national nabbed for illegal medical practice](https://www.gmanetwork.com/news/topstories/metro/906536/chinese-national-nabbed-for-illegal-medical-practice/story/)
+Token length: 161
+Summarized using GPT-3.5-turbo
+Append: [Afghanistan floods devastate villages, killing 315](https://www.gmanetwork.com/news/topstories/world/906535/afghanistan-floods-devastate-villages-killing-315/story/)
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [Fire destroys one of biggest shopping centers in Polish capital Warsaw](https://www.gmanetwork.com/news/topstories/world/906534/fire-destroys-one-of-biggest-shopping-centers-in-polish-capital-warsaw/story/)
+Append: [Carpio: PH should stop China from building new islands in Sabina Shoal, Pag asa Cay](https://www.gmanetwork.com/news/topstories/nation/906531/carpio-ph-should-stop-china-from-building-new-islands-in-sabina-shoal-pag-asa-cay/story/)
+append_entries: 4
+Finish: 2024-05-12 12:21:05.716332
