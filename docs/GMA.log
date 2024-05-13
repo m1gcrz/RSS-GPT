@@ -8526,3 +8526,18 @@ Existing_entries: 1000
 Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
 append_entries: 0
 Finish: 2024-05-12 22:10:06.849144
+------------------------------------------------------
+Started: 2024-05-13 00:53:49.772731
+Existing_entries: 1000
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [China sending 'huge force' to Scarborough Shoal ahead of PH civilian mission --maritime expert](https://www.gmanetwork.com/news/topstories/nation/906558/china-huge-force-scarborough-shoal/story/)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [Kuwait forms new government headed by Ahmad Abdullah Al-Sabah](https://www.gmanetwork.com/news/topstories/world/906557/kuwait-forms-new-government-headed-by-ahmad-abdullah-al-sabah/story/)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [North Korea denounces Western states for surveillance, Kim Jong Un visits arms factories](https://www.gmanetwork.com/news/topstories/world/906556/north-korea-denounces-western-states-for-surveillance-kim-jong-un-visits-arms-factories/story/)
+append_entries: 3
+Finish: 2024-05-13 00:53:58.780873
