@@ -8556,3 +8556,18 @@ Summarized using GPT-3.5-turbo
 Append: [Death toll from floods in Brazil's south reaches 143, as rains continue to pour](https://www.gmanetwork.com/news/topstories/world/906560/death-toll-from-floods-in-brazil-s-south-reaches-143-as-rains-continue-to-pour/story/)
 append_entries: 3
 Finish: 2024-05-13 02:27:28.962076
+------------------------------------------------------
+Started: 2024-05-13 04:14:57.414884
+Existing_entries: 1003
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [Senior citizen na suspek sa umano'y panggagahasa sa bata sa Misamis Occidental, arestado](https://www.gmanetwork.com/news/topstories/ulatfilipino/906577/senior-citizen-na-suspek-sa-umano-y-panggagahasa-sa-bata-sa-misamis-occidental-arestado/story/)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [NSC nixes calls to abolish NTF-ELCAC](https://www.gmanetwork.com/news/topstories/nation/906574/nsc-nixes-calls-to-abolish-ntf-elcac/story/)
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [PH civilian mission to WPS to push through despite reported 'huge' China force](https://www.gmanetwork.com/news/topstories/nation/906569/ph-civilian-mission-wps-huge-china-force/story/)
+append_entries: 3
+Finish: 2024-05-13 04:15:08.003644
