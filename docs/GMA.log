@@ -8541,3 +8541,18 @@ Summarized using GPT-3.5-turbo
 Append: [North Korea denounces Western states for surveillance, Kim Jong Un visits arms factories](https://www.gmanetwork.com/news/topstories/world/906556/north-korea-denounces-western-states-for-surveillance-kim-jong-un-visits-arms-factories/story/)
 append_entries: 3
 Finish: 2024-05-13 00:53:58.780873
+------------------------------------------------------
+Started: 2024-05-13 02:27:19.569056
+Existing_entries: 1003
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [4 earthquakes monitored at Mayon Volcano in past 24 hours](https://www.gmanetwork.com/news/topstories/regions/906567/mayon-volcano-4-quakes-phivolcs/story/)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [NGCP: Luzon Grid under yellow alert on Monday afternoon](https://www.gmanetwork.com/news/topstories/nation/906564/luzon-grid-yellow-alert-monday/story/)
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [Death toll from floods in Brazil's south reaches 143, as rains continue to pour](https://www.gmanetwork.com/news/topstories/world/906560/death-toll-from-floods-in-brazil-s-south-reaches-143-as-rains-continue-to-pour/story/)
+append_entries: 3
+Finish: 2024-05-13 02:27:28.962076
