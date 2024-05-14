@@ -8913,3 +8913,9 @@ Summarized using GPT-3.5-turbo
 Append: [Florida bus crash kills eight, leaves eight in critical condition](https://www.gmanetwork.com/news/topstories/world/906785/florida-bus-crash-kills-eight-leaves-eight-in-critical-condition/story/)
 append_entries: 2
 Finish: 2024-05-14 20:13:27.024103
+------------------------------------------------------
+Started: 2024-05-14 22:11:42.616910
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+append_entries: 0
+Finish: 2024-05-14 22:11:44.513187
