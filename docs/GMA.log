@@ -8724,3 +8724,15 @@ Summarized using GPT-3.5-turbo
 Append: [2 sundalo, patay matapos tamaan ng kidlat sa Kalinga](https://www.gmanetwork.com/news/topstories/ulatfilipino/906652/2-sundalo-patay-matapos-tamaan-ng-kidlat-sa-kalinga/story/)
 append_entries: 2
 Finish: 2024-05-14 00:53:06.910997
+------------------------------------------------------
+Started: 2024-05-14 02:23:49.417712
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Gov't employees to receive midyear bonus starting May 15 --DBM](https://www.gmanetwork.com/news/topstories/nation/906661/government-employees-midyear-bonus-dbm/story/)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [Exclusion of CHR in Marcos' human rights body questioned](https://www.gmanetwork.com/news/topstories/nation/906660/exclusion-human-rights-body/story/)
+append_entries: 2
+Finish: 2024-05-14 02:23:57.970786
