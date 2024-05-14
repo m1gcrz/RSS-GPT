@@ -8712,3 +8712,15 @@ Existing_entries: 1000
 Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
 append_entries: 0
 Finish: 2024-05-13 22:11:46.918233
+------------------------------------------------------
+Started: 2024-05-14 00:53:00.144004
+Existing_entries: 1000
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [Landslide displaces over 200 families in Surigao del Norte](https://www.gmanetwork.com/news/topstories/regions/906655/landslide-surigao-del-norte/story/)
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [2 sundalo, patay matapos tamaan ng kidlat sa Kalinga](https://www.gmanetwork.com/news/topstories/ulatfilipino/906652/2-sundalo-patay-matapos-tamaan-ng-kidlat-sa-kalinga/story/)
+append_entries: 2
+Finish: 2024-05-14 00:53:06.910997
