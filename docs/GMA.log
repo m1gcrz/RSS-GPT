@@ -8736,3 +8736,21 @@ Summarized using GPT-3.5-turbo
 Append: [Exclusion of CHR in Marcos' human rights body questioned](https://www.gmanetwork.com/news/topstories/nation/906660/exclusion-human-rights-body/story/)
 append_entries: 2
 Finish: 2024-05-14 02:23:57.970786
+------------------------------------------------------
+Started: 2024-05-14 04:13:15.078034
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 277
+Summarized using GPT-3.5-turbo
+Append: [Ombudsman lifts suspension of 72 more NFA personnel](https://www.gmanetwork.com/news/topstories/nation/906672/ombudsman-lifts-suspension-of-72-more-nfa-personnel/story/)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [Marcos says tourist arrivals show PH tourism recovery](https://www.gmanetwork.com/news/topstories/nation/906670/marcos-says-tourist-arrivals-show-ph-tourism-recovery/story/)
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [At least 14 killed after billboard collapses in Mumbai during thunderstorm](https://www.gmanetwork.com/news/topstories/world/906669/14-killed-billboard-mumbai-thunderstorm/story/)
+Append: [Drivers press for TRO vs PUVMP as arrest of 'colorum' PUVs looms](https://www.gmanetwork.com/news/topstories/nation/906667/drivers-tro-puvmp-colorum-puvs/story/)
+Append: [Ex-senator Bam Aquino leaves LP](https://www.gmanetwork.com/news/topstories/nation/906665/ex-senator-bam-aquino-leaves-lp/story/)
+Append: [Marcos declares July as agriculturists' month](https://www.gmanetwork.com/news/topstories/nation/906664/marcos-july-agriculturists-month/story/)
+append_entries: 6
+Finish: 2024-05-14 04:13:24.597440
