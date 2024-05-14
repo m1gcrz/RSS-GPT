@@ -8901,3 +8901,15 @@ Append: [Man nabbed for alleged rape of 15-year-old neighbor](https://www.gmanet
 Append: [Walang kuryente o walang tubig: Ano ang mas pipiliin mo?](https://www.gmanetwork.com/news/topstories/ulatfilipino/906780/walang-kuryente-o-walang-tubig-ano-ang-mas-pipiliin-mo/story/)
 append_entries: 4
 Finish: 2024-05-14 18:14:52.963171
+------------------------------------------------------
+Started: 2024-05-14 20:13:19.760420
+Existing_entries: 1004
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 457
+Summarized using GPT-3.5-turbo
+Append: [52% of Pinoy Gen Zs prefer to work abroad, says study](https://www.gmanetwork.com/news/topstories/nation/906786/52-of-pinoy-gen-zs-prefer-to-work-abroad-says-study/story/)
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [Florida bus crash kills eight, leaves eight in critical condition](https://www.gmanetwork.com/news/topstories/world/906785/florida-bus-crash-kills-eight-leaves-eight-in-critical-condition/story/)
+append_entries: 2
+Finish: 2024-05-14 20:13:27.024103
