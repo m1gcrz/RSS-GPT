@@ -8919,3 +8919,15 @@ Existing_entries: 1002
 Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
 append_entries: 0
 Finish: 2024-05-14 22:11:44.513187
+------------------------------------------------------
+Started: 2024-05-15 00:52:45.537814
+Existing_entries: 1000
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [PH civilian mission sets sail for Scarborough Shoal in WPS](https://www.gmanetwork.com/news/topstories/nation/906794/ph-civilian-mission-sets-sail-for-scarborough-shoal-in-wps/story/)
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [North Korean leader oversees tactical missile weapons system, KCNA says](https://www.gmanetwork.com/news/topstories/world/906793/north-korean-leader-oversees-tactical-missile-weapons-system-kcna-says/story/)
+append_entries: 2
+Finish: 2024-05-15 00:52:53.331923
