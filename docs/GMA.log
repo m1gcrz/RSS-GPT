@@ -9307,3 +9307,9 @@ Append: [Nag-share o nag-post ng screenshot sa usapan sa group chat, puwede bang
 Append: [Senators discuss PhilHealth coverage for basic dental services](https://www.gmanetwork.com/news/topstories/nation/907053/senators-discuss-philhealth-coverage-for-basic-dental-services/story/)
 append_entries: 6
 Finish: 2024-05-16 18:14:48.936582
+------------------------------------------------------
+Started: 2024-05-16 20:11:58.774229
+Existing_entries: 1006
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+append_entries: 0
+Finish: 2024-05-16 20:11:59.679075
