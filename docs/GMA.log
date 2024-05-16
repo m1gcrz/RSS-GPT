@@ -9123,3 +9123,19 @@ Summarized using GPT-3.5-turbo
 Append: [Pinoy Gen Zs prefer to 'live fast and retire young,' says study](https://www.gmanetwork.com/news/topstories/nation/906929/pinoy-gen-zs-opt-to-live-fast-and-retire-young-says-study/story/)
 append_entries: 2
 Finish: 2024-05-15 22:12:39.330031
+------------------------------------------------------
+Started: 2024-05-16 00:53:04.093668
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [PH civilian mission breaches China blockade, reaches Scarborough Shoal](https://www.gmanetwork.com/news/topstories/nation/906940/ph-civilian-mission-china-blockade-scarborough-shoal/story/)
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [Over 40 Chinese ships move to block PH civilian mission in Scarborough](https://www.gmanetwork.com/news/topstories/nation/906939/over-40-chinese-ships-move-to-block-ph-civilian-mission-in-scarborough/story/)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [South Africa seeks halt to Israel's Rafah offensive at World Court](https://www.gmanetwork.com/news/topstories/world/906932/south-africa-seeks-halt-to-israel-s-rafah-offensive-at-world-court/story/)
+Append: [Slovak PM Fico no longer in life-threatening condition after being shot, minister says](https://www.gmanetwork.com/news/topstories/world/906931/slovak-pm-fico-no-longer-in-life-threatening-condition-after-being-shot-minister-says/story/)
+append_entries: 4
+Finish: 2024-05-16 00:53:15.057589
