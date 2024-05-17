@@ -9468,3 +9468,22 @@ Append: [7 Chinese sailors found in anchored ship in San Felipe, Zambales](https
 Append: [Suspect gave minor victim a ride, meal before raping her](https://www.gmanetwork.com/news/topstories/metro/907145/suspect-gave-minor-victim-a-ride-meal-before-raping-her/story/)
 append_entries: 7
 Finish: 2024-05-17 16:13:59.182313
+------------------------------------------------------
+Started: 2024-05-17 18:15:31.833448
+Existing_entries: 1007
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [Ontario reports first death from measles in over a decade](https://www.gmanetwork.com/news/topstories/world/907163/ontario-reports-first-death-from-measles-in-over-a-decade/story/)
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [DILG urges Ombudsman to suspend Alice Guo](https://www.gmanetwork.com/news/topstories/nation/907162/dilg-to-ombudsman-place-alice-guo-on-preventive-suspension/story/)
+Token length: 78
+Summarized using GPT-3.5-turbo
+Append: [Woman dies after getting shot while buying cigarettes in Cebu City](https://www.gmanetwork.com/news/topstories/regions/907161/woman-dies-after-getting-shot-while-buying-cigarettes-in-cebu-city/story/)
+Append: [Kaanak ng 'nawawalang' OFW sa Saudi Arabia, umaasang makikita nila ito nang buhay at buo](https://www.gmanetwork.com/news/topstories/ulatfilipino/907160/kaanak-ng-nawawalang-ofw-sa-saudi-arabia-umaasang-makikita-nila-ito-nang-buhay-at-buo/story/)
+Append: [5 students from Iloilo, Davao, Leyte, Zamboanga get US scholarships](https://www.gmanetwork.com/news/topstories/nation/907155/5-students-from-iloilo-davao-leyte-zamboanga-get-us-scholarships/story/)
+Append: [Babae sa Cebu, patay matapos barilin nang malapitan habang nakatalikod](https://www.gmanetwork.com/news/topstories/ulatfilipino/907158/babae-sa-cebu-patay-matapos-barilin-nang-malapitan-habang-nakatalikod/story/)
+Append: [Teodoro pushes thorough probe on Bamban illegal activities](https://www.gmanetwork.com/news/topstories/nation/907156/teodoro-pushes-thorough-probe-on-bamban-illegal-activities/story/)
+append_entries: 7
+Finish: 2024-05-17 18:15:43.253026
