@@ -9628,3 +9628,18 @@ Append: [Over 4.5 million people affected by El Niño -DSWD](https://www.gmanetw
 Append: [DOH reports decrease in measles, pertussis cases](https://www.gmanetwork.com/news/topstories/nation/907220/doh-reports-decrease-in-measles-pertussis-cases/story/)
 append_entries: 6
 Finish: 2024-05-18 14:10:30.960208
+------------------------------------------------------
+Started: 2024-05-18 16:13:31.977100
+Existing_entries: 1006
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 204
+Summarized using GPT-3.5-turbo
+Append: [Marcos: China order to detain South China Sea 'trespassers' unacceptable](https://www.gmanetwork.com/news/topstories/nation/907229/marcos-on-china-order-to-detain-trespassers-in-scs-completely-unacceptable/story/)
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [Marcos: Photos with Guo proves nothing](https://www.gmanetwork.com/news/topstories/nation/907227/marcos-photos-with-guo-proves-nothing/story/)
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [Lone bettor wins P54-M Grand Lotto 6/55 jackpot](https://www.gmanetwork.com/news/topstories/nation/907226/lone-bettor-wins-p54-m-grand-lotto-6-55-jackpot/story/)
+append_entries: 3
+Finish: 2024-05-18 16:13:43.899805
