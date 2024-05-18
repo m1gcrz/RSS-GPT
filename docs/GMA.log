@@ -9520,3 +9520,15 @@ Summarized using GPT-3.5-turbo
 Append: [US evacuates 17 US citizen doctors from Gaza -- officials](https://www.gmanetwork.com/news/topstories/world/907171/us-evacuates-17-us-citizen-doctors-from-gaza-officials/story/)
 append_entries: 2
 Finish: 2024-05-18 00:52:25.200006
+------------------------------------------------------
+Started: 2024-05-18 02:24:22.041073
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: [Fierce fighting in northern Gaza as aid starts to roll off US-built pier](https://www.gmanetwork.com/news/topstories/world/907175/fierce-fighting-in-northern-gaza-as-aid-starts-to-roll-off-us-built-pier/story/)
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [Vessel in Red Sea sustains slight damage after being struck, UKMTO says](https://www.gmanetwork.com/news/topstories/world/907174/vessel-in-red-sea-sustains-slight-damage-after-being-struck-ukmto-says/story/)
+append_entries: 2
+Finish: 2024-05-18 02:24:28.432244
