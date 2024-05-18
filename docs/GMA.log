@@ -9594,3 +9594,19 @@ Summarized using GPT-3.5-turbo
 Append: [Magnitude 5.2 earthquake strikes off Kiamba, Sarangani](https://www.gmanetwork.com/news/topstories/regions/907203/magnitude-5-2-earthquake-strikes-off-kiamba-sarangani/story/)
 append_entries: 3
 Finish: 2024-05-18 10:11:21.702220
+------------------------------------------------------
+Started: 2024-05-18 12:20:06.346891
+Existing_entries: 1003
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [BARMM Grand Coalition backs Sulu's Tan for chief minister](https://www.gmanetwork.com/news/topstories/specialreports/907217/barmm-grand-coalition-backs-sulu-s-tan-for-chief-minister/story/)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [100K former rebels seen to avail of amnesty program - NAC](https://www.gmanetwork.com/news/topstories/nation/907218/100k-former-rebels-seen-to-avail-of-amnesty-program-nac/story/)
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [PMA valedictorian urges classmates to uphold academy's values](https://www.gmanetwork.com/news/topstories/nation/907209/pma-valedictorian-urges-classmates-to-uphold-academy-s-values/story/)
+Append: [Pusit na 'glow in the dark,' niyakap ang camera sa pag-aakalang pagkain ito](https://www.gmanetwork.com/news/topstories/ulatfilipino/907210/pusit-na-glow-in-the-dark-niyakap-ang-camera-sa-pag-aakalang-pagkain-ito/story/)
+append_entries: 4
+Finish: 2024-05-18 12:20:19.319591
