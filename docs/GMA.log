@@ -9508,3 +9508,15 @@ Summarized using GPT-3.5-turbo
 Append: [North Korea's Kim accelerates production to shore up nuclear force, KCNA says](https://www.gmanetwork.com/news/topstories/world/907168/north-korea-s-kim-jong-un-oversaw-missile-test-with-new-guidance-system-kcna-says/story/)
 append_entries: 2
 Finish: 2024-05-17 22:11:29.373569
+------------------------------------------------------
+Started: 2024-05-18 00:52:18.927083
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [Atin Ito: China's threats to jail WPS trespassers a desperate move](https://www.gmanetwork.com/news/topstories/nation/907173/atin-ito-china-s-threats-to-jail-wps-trespassers-a-desperate-move/story/)
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [US evacuates 17 US citizen doctors from Gaza -- officials](https://www.gmanetwork.com/news/topstories/world/907171/us-evacuates-17-us-citizen-doctors-from-gaza-officials/story/)
+append_entries: 2
+Finish: 2024-05-18 00:52:25.200006
