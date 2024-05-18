@@ -9610,3 +9610,21 @@ Append: [PMA valedictorian urges classmates to uphold academy's values](https://
 Append: [Pusit na 'glow in the dark,' niyakap ang camera sa pag-aakalang pagkain ito](https://www.gmanetwork.com/news/topstories/ulatfilipino/907210/pusit-na-glow-in-the-dark-niyakap-ang-camera-sa-pag-aakalang-pagkain-ito/story/)
 append_entries: 4
 Finish: 2024-05-18 12:20:19.319591
+------------------------------------------------------
+Started: 2024-05-18 14:10:20.922228
+Existing_entries: 1004
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [Marcos' PFP formalizes alliance with NPC for 2025 elections](https://www.gmanetwork.com/news/topstories/nation/907225/marcos-pfp-formalizes-alliance-with-npc-for-2025-elections/story/)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [4 injured as subdivision perimeter wall collapses on 3 cars](https://www.gmanetwork.com/news/topstories/metro/907224/4-injured-as-subdivision-perimeter-wall-collapses-on-3-cars/story/)
+Token length: 82
+Summarized using GPT-3.5-turbo
+Append: [Baboy, namataang palakad-lakad sa Cebu-Cordova Link Expressway](https://www.gmanetwork.com/news/topstories/ulatfilipino/907223/baboy-namataang-palakad-lakad-sa-cebu-cordova-link-expressway/story/)
+Append: [Mala-pelikulang pagtugis sa holdaper umano na tumakbo sa mga bubong sa QC, nakunan ng drone](https://www.gmanetwork.com/news/topstories/ulatfilipino/907222/mala-pelikulang-pagtugis-sa-holdaper-umano-na-tumakbo-sa-mga-bubong-sa-qc-nakunan-ng-drone/story/)
+Append: [Over 4.5 million people affected by El Niño -DSWD](https://www.gmanetwork.com/news/topstories/nation/907219/over-4-5-million-people-affected-by-el-nino-dswd/story/)
+Append: [DOH reports decrease in measles, pertussis cases](https://www.gmanetwork.com/news/topstories/nation/907220/doh-reports-decrease-in-measles-pertussis-cases/story/)
+append_entries: 6
+Finish: 2024-05-18 14:10:30.960208
