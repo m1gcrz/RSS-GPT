@@ -9720,3 +9720,20 @@ Summarized using GPT-3.5-turbo
 Append: [Woman seeks help over alleged online loan scam](https://www.gmanetwork.com/news/topstories/regions/907252/woman-seeks-help-over-alleged-online-loan-scam/story/)
 append_entries: 2
 Finish: 2024-05-19 06:14:53.060534
+------------------------------------------------------
+Started: 2024-05-19 08:13:39.525362
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [Kadiwa stores in NCR sell rice at P29/kilo](https://www.gmanetwork.com/news/topstories/metro/907266/kadiwa-stores-in-ncr-sell-rice-at-p29-kilo/story/)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Tolentino: Chinese Embassy, ex-WESCOM chief invited to Senate probe into alleged wiretapping](https://www.gmanetwork.com/news/topstories/nation/907262/tolentino-chinese-embassy-ex-wescom-chief-invited-to-senate-probe-into-alleged-wiretapping/story/)
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [Teenager receives unordered online purchase after losing national ID](https://www.gmanetwork.com/news/topstories/regions/907257/teenager-receives-unordered-online-purchase-after-losing-national-id/story/)
+Append: [Over 50 decorated tricycles showcased in Laoag City](https://www.gmanetwork.com/news/topstories/regions/907258/over-50-decorated-tricycles-showcased-in-laoag-city/story/)
+Append: [2 dead, 4 injured from electrocution in Masbate](https://www.gmanetwork.com/news/topstories/regions/907256/2-dead-4-injured-from-electrocution-in-masbate/story/)
+append_entries: 5
+Finish: 2024-05-19 08:13:49.404745
