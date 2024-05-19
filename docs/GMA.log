@@ -9737,3 +9737,19 @@ Append: [Over 50 decorated tricycles showcased in Laoag City](https://www.gmanet
 Append: [2 dead, 4 injured from electrocution in Masbate](https://www.gmanetwork.com/news/topstories/regions/907256/2-dead-4-injured-from-electrocution-in-masbate/story/)
 append_entries: 5
 Finish: 2024-05-19 08:13:49.404745
+------------------------------------------------------
+Started: 2024-05-19 10:11:12.672388
+Existing_entries: 1005
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [Palace declares May 21 a holiday in Malabon](https://www.gmanetwork.com/news/topstories/metro/907276/palace-declares-may-21-a-holiday-in-malabon/story/)
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [BI arrests Japanese national wanted for kidnapping, rape](https://www.gmanetwork.com/news/topstories/nation/907275/bi-arrests-japanese-national-wanted-for-kidnapping-rape/story/)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [FDA warns buying medicine from unauthorized doctors](https://www.gmanetwork.com/news/topstories/nation/907272/fda-warns-buying-medicine-from-unauthorized-doctors/story/)
+Append: [PH may file new case if China detains sea 'trespassers' -senators](https://www.gmanetwork.com/news/topstories/nation/907268/ph-may-file-new-case-if-china-detains-sea-trespassers-senators/story/)
+append_entries: 4
+Finish: 2024-05-19 10:11:24.000900
