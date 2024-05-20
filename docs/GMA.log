@@ -10023,3 +10023,15 @@ Summarized using GPT-3.5-turbo
 Append: [3 male students allegedly hit, cursed by teacher in Lubao, Pampanga](https://www.gmanetwork.com/news/topstories/regions/907427/3-male-students-allegedly-hit-cursed-by-teacher-in-lubao-pampanga/story/)
 append_entries: 1
 Finish: 2024-05-20 20:12:11.643578
+------------------------------------------------------
+Started: 2024-05-20 22:10:47.020445
+Existing_entries: 1001
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [Biden: What's happening in Gaza is not genocide](https://www.gmanetwork.com/news/topstories/world/907431/biden-what-s-happening-in-gaza-is-not-genocide/story/)
+Token length: 232
+Summarized using GPT-3.5-turbo
+Append: [Russia fails in rival UN bid on nuclear weapons in space](https://www.gmanetwork.com/news/topstories/world/907429/russia-fails-in-rival-un-bid-on-nuclear-weapons-in-space/story/)
+append_entries: 2
+Finish: 2024-05-20 22:10:54.951463
