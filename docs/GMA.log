@@ -9998,3 +9998,19 @@ Append: [2 SAF cops face admin charges for working as Chinese national's bodygua
 Append: [No winners of major lotto draws on Monday, May 20, 2024](https://www.gmanetwork.com/news/topstories/nation/907413/no-winners-of-major-lotto-draws-on-monday-may-20-2024/story/)
 append_entries: 7
 Finish: 2024-05-20 16:15:22.019967
+------------------------------------------------------
+Started: 2024-05-20 18:14:50.080036
+Existing_entries: 1007
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [Saudi king treated for lung infection -- statement](https://www.gmanetwork.com/news/topstories/world/907426/saudi-king-treated-for-lung-infection-statement/story/)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [House majority leader sees Cha-cha moving under Escudero](https://www.gmanetwork.com/news/topstories/nation/907424/house-majority-leader-sees-cha-cha-moving-under-chiz-escudero/story/)
+Token length: 268
+Summarized using GPT-3.5-turbo
+Append: [Binatilyo, patay matapos atakihin ng alagang kalabaw na itinuring niyang best friend](https://www.gmanetwork.com/news/topstories/ulatfilipino/907420/binatilyo-patay-matapos-atakihin-ng-alagang-kalabaw-na-itinuring-niyang-best-friend/story/)
+Append: [WikiLeaks" Julian Assange wins right to appeal extradition from Britain to US](https://www.gmanetwork.com/news/topstories/world/907421/wikileaks-julian-assange-wins-right-to-appeal-extradition-from-britain-to-us/story/)
+append_entries: 4
+Finish: 2024-05-20 18:14:57.659755
