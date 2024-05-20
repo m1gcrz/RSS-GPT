@@ -9821,3 +9821,19 @@ Existing_entries: 1001
 Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
 append_entries: 0
 Finish: 2024-05-19 22:13:08.267195
+------------------------------------------------------
+Started: 2024-05-20 00:53:38.408121
+Existing_entries: 1000
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [Angat Dam water down to minimum operating level --PAGASA](https://www.gmanetwork.com/news/topstories/regions/907311/angat-dam-water-down-to-minimum-operating-level-pagasa/story/)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [3 dead, 6 hurt as military truck falls off ravine in Davao de Oro](https://www.gmanetwork.com/news/topstories/regions/907312/3-dead-military-truck-davao-de-oro/story/)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [Pera, ginawang pahiyas o banderitas sa Agawan Festival sa Sariaya, Quezon](https://www.gmanetwork.com/news/topstories/ulatfilipino/907308/pera-ginawang-pahiyas-o-banderitas-sa-agawan-festival-sa-sariaya-quezon/story/)
+Append: [Rescuers struggle to reach crash site of helicopter carrying Iran's President Raisi](https://www.gmanetwork.com/news/topstories/world/907306/rescuers-strugge-to-reach-crash-site-of-helicopter-carrying-iran-s-president-raisi/story/)
+append_entries: 4
+Finish: 2024-05-20 00:53:45.467676
