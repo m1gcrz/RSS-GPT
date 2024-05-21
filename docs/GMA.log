@@ -10035,3 +10035,20 @@ Summarized using GPT-3.5-turbo
 Append: [Russia fails in rival UN bid on nuclear weapons in space](https://www.gmanetwork.com/news/topstories/world/907429/russia-fails-in-rival-un-bid-on-nuclear-weapons-in-space/story/)
 append_entries: 2
 Finish: 2024-05-20 22:10:54.951463
+------------------------------------------------------
+Started: 2024-05-21 00:53:10.364230
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [Marcos extends support to Chiz Escudero as Senate president](https://www.gmanetwork.com/news/topstories/nation/907439/marcos-escudero-senate-president/story/)
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [Lalaking sinita dahil sa paninigarilyo sa Caloocan, arestado matapos magwala](https://www.gmanetwork.com/news/topstories/ulatfilipino/907438/lalaking-sinita-dahil-sa-paninigarilyo-sa-caloocan-arestado-matapos-magwala/story/)
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [Alagang baboy sa Catanduanes, pinatay at ninakaw ang dalawang pata](https://www.gmanetwork.com/news/topstories/ulatfilipino/907436/alagang-baboy-sa-catanduanes-pinatay-at-ninakaw-ang-dalawang-pata/story/)
+Append: [2 women hurt after grenade thrown into Cotabato City chapel explodes](https://www.gmanetwork.com/news/topstories/regions/907434/women-hurt-grenade-cotabato-city/story/)
+Append: [Nine accused of 'Reichsbuerger' coup plot go on trial in Germany](https://www.gmanetwork.com/news/topstories/world/907433/nine-accused-of-reichsbuerger-coup-plot-go-on-trial-in-germany/story/)
+append_entries: 5
+Finish: 2024-05-21 00:53:21.816237
