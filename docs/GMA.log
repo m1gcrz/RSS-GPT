@@ -10245,3 +10245,20 @@ Summarized using GPT-3.5-turbo
 Append: [Vatican closes sexual assault probe into Canadian cardinal](https://www.gmanetwork.com/news/topstories/world/907559/vatican-closes-sexual-assault-probe-into-canadian-cardinal/story/)
 append_entries: 2
 Finish: 2024-05-21 22:10:52.577972
+------------------------------------------------------
+Started: 2024-05-22 00:53:18.112070
+Existing_entries: 1002
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Jeepney driver na ayaw sumama sa tigil-pasada, pinagsusuntok umano ng mga kapwa tsuper sa Bacolod City](https://www.gmanetwork.com/news/topstories/ulatfilipino/907569/jeepney-driver-na-ayaw-sumama-sa-tigil-pasada-pinagsusuntok-umano-ng-mga-kapwa-tsuper-sa-bacolod-/story/)
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [EXPLAINER: What is flight turbulence and why does it happen?](https://www.gmanetwork.com/news/topstories/world/907568/explainer-turbulence/story/)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [Man arrested for alleged blackmail using private photos, videos](https://www.gmanetwork.com/news/topstories/regions/907565/man-arrested-for-alleged-blackmail-using-private-photos-videos/story/)
+Append: [NY top court rejects church challenge to abortion coverage law](https://www.gmanetwork.com/news/topstories/world/907563/ny-top-court-rejects-church-challenge-to-abortion-coverage-law/story/)
+Append: [Pandemic agreement would not infringe state sovereignty -- WHO](https://www.gmanetwork.com/news/topstories/world/907562/pandemic-agreement-would-not-infringe-state-sovereignty-who/story/)
+append_entries: 5
+Finish: 2024-05-22 00:53:27.569755
