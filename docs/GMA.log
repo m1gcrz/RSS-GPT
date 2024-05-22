@@ -10290,3 +10290,21 @@ Append: [Taiwan says it is paying close attention to Vatican-China interactions]
 Append: [Luzon, Visayas grids under yellow alert Wednesday afternoon](https://www.gmanetwork.com/news/topstories/nation/907580/luzon-visayas-grids-under-yellow-alert-wednesday-afternoon/story/)
 append_entries: 4
 Finish: 2024-05-22 04:13:57.018493
+------------------------------------------------------
+Started: 2024-05-22 06:16:00.106163
+Existing_entries: 1004
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [PH will not allow China to arrest Filipinos in WPS --official](https://www.gmanetwork.com/news/topstories/nation/907604/ph-china-arrest-west-philippine-sea/story/)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Iowa tornado kills 'multiple' people in small town reduced to rubble](https://www.gmanetwork.com/news/topstories/world/907597/iowa-tornado-kills-multiple-people-in-small-town-reduced-to-rubble/story/)
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [Lalaking nangmolestiya umano ng menor de edad sa Camarines Sur, huli sa QC](https://www.gmanetwork.com/news/topstories/ulatfilipino/907594/lalaking-nangmolestiya-umano-ng-menor-de-edad-sa-camarines-sur-huli-sa-qc/story/)
+Append: [Mayor Guo says she only learned about business partners' criminal records on social media](https://www.gmanetwork.com/news/topstories/nation/907593/alice-guo-business-partners-social-media/story/)
+Append: [Water interruptions in parts of Antipolo, Angono, San Juan, Marikina on May 22, 23](https://www.gmanetwork.com/news/topstories/metro/907591/water-interruptions-in-parts-of-antipolo-angono-san-juan-marikina-on-may-22-23/story/)
+Append: [Herbosa: No border control, travel restrictions amid COVID-19 rise in Singapore](https://www.gmanetwork.com/news/topstories/nation/907590/herbosa-covid-19-rise-singapore/story/)
+append_entries: 6
+Finish: 2024-05-22 06:16:08.094889
