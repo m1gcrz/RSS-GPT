@@ -10636,3 +10636,12 @@ Summarized using GPT-3.5-turbo
 Append: ['Boiling not warming': Marine life suffers as Thai sea temperatures hit record](https://www.gmanetwork.com/news/topstories/world/907816/boiling-not-warming-marine-life-suffers-as-thai-sea-temperatures-hit-record/story/)
 append_entries: 1
 Finish: 2024-05-23 20:12:57.937419
+------------------------------------------------------
+Started: 2024-05-23 22:11:03.400234
+Existing_entries: 1001
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [Building collapses in Spain's Balearic Islands, killing at least 4 people](https://www.gmanetwork.com/news/topstories/world/907819/building-collapses-in-spain-s-balearic-islands-killing-at-least-4-people/story/)
+append_entries: 1
+Finish: 2024-05-23 22:11:09.211829
