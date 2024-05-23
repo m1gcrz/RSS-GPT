@@ -10448,3 +10448,18 @@ Existing_entries: 1002
 Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
 append_entries: 0
 Finish: 2024-05-22 22:10:53.393607
+------------------------------------------------------
+Started: 2024-05-23 00:52:52.776322
+Existing_entries: 1000
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 223
+Summarized using GPT-3.5-turbo
+Append: [China starts military drills around Taiwan days after new president takes office](https://www.gmanetwork.com/news/topstories/world/907712/china-military-drills-taiwan/story/)
+Token length: 31
+Summarized using GPT-3.5-turbo
+Append: [Bicol sees rise in COVID-19 cases; gov"t official tests positive](https://www.gmanetwork.com/news/topstories/regions/907708/bicol-sees-rise-in-covid-cases-gov-t-official-tests-positive/story/)
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [Brazil teen kills parents, sister after row over phone](https://www.gmanetwork.com/news/topstories/world/907706/brazil-teen-kills-parents-sister-after-row-over-phone/story/)
+append_entries: 3
+Finish: 2024-05-23 00:53:05.209309
