@@ -10569,3 +10569,18 @@ Append: [Escudero on Alice Guo: Burden of proof lies with accusers](https://www.
 Append: [Nine killed in Mexico stage collapse at campaign event](https://www.gmanetwork.com/news/topstories/world/907771/nine-killed-in-mexico-stage-collapse-at-campaign-event/story/)
 append_entries: 5
 Finish: 2024-05-23 12:21:27.249908
+------------------------------------------------------
+Started: 2024-05-23 14:11:10.312333
+Existing_entries: 1005
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [Pope clears sainthood for Italian millennial known as 'God"s influencer"](https://www.gmanetwork.com/news/topstories/world/907798/pope-clears-sainthood-for-italian-millennial-known-as-god-s-influencer/story/)
+Token length: 102
+Summarized using GPT-3.5-turbo
+Append: [Thunderstorms cause floods in parts of Davao City](https://www.gmanetwork.com/news/topstories/regions/907795/thunderstorms-cause-floods-in-parts-of-davao-city/story/)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [Mom fatally shot in front of kids in Pangasinan](https://www.gmanetwork.com/news/topstories/regions/907787/mom-fatally-shot-in-front-of-kids-in-pangasinan/story/)
+append_entries: 3
+Finish: 2024-05-23 14:11:24.696184
