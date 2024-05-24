@@ -10660,3 +10660,18 @@ Summarized using GPT-3.5-turbo
 Append: [US preparing $275M weapons package for Ukraine, officials](https://www.gmanetwork.com/news/topstories/world/907821/us-preparing-275m-weapons-package-for-ukraine-officials/story/)
 append_entries: 3
 Finish: 2024-05-24 00:53:28.410303
+------------------------------------------------------
+Started: 2024-05-24 02:26:09.259817
+Existing_entries: 1003
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 60
+Summarized using GPT-3.5-turbo
+Append: [Marcos to visit Brunei, Singapore next week](https://www.gmanetwork.com/news/topstories/nation/907836/marcos-brunei-singapore-visit/story/)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [Luzon, Visayas grids on yellow alert anew on Friday afternoon](https://www.gmanetwork.com/news/topstories/nation/907835/luzon-visayas-grids-on-yellow-alert-anew-on-friday-afternoon/story/)
+Token length: 65
+Summarized using GPT-3.5-turbo
+Append: [China's 'Monster' ship held intrusive patrol near Scarborough --expert](https://www.gmanetwork.com/news/topstories/nation/907834/china-monster-intrusive-patrol-near-scarborough/story/)
+append_entries: 3
+Finish: 2024-05-24 02:26:20.323971
