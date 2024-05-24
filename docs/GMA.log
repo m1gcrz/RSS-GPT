@@ -10645,3 +10645,18 @@ Summarized using GPT-3.5-turbo
 Append: [Building collapses in Spain's Balearic Islands, killing at least 4 people](https://www.gmanetwork.com/news/topstories/world/907819/building-collapses-in-spain-s-balearic-islands-killing-at-least-4-people/story/)
 append_entries: 1
 Finish: 2024-05-23 22:11:09.211829
+------------------------------------------------------
+Started: 2024-05-24 00:53:15.648649
+Existing_entries: 1001
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 65
+Summarized using GPT-3.5-turbo
+Append: [Marcos gleams over peace in Tawi-Tawi but says mission 'not yet over'](https://www.gmanetwork.com/news/topstories/nation/907828/marcos-gleams-over-peace-in-tawi-tawi-but-says-mission-not-yet-over/story/)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [3-year-old boy in Davao del Sur falls from house, drowns](https://www.gmanetwork.com/news/topstories/regions/907825/boy-davao-del-sur-drowns/story/)
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [US preparing $275M weapons package for Ukraine, officials](https://www.gmanetwork.com/news/topstories/world/907821/us-preparing-275m-weapons-package-for-ukraine-officials/story/)
+append_entries: 3
+Finish: 2024-05-24 00:53:28.410303
