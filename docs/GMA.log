@@ -10675,3 +10675,18 @@ Summarized using GPT-3.5-turbo
 Append: [China's 'Monster' ship held intrusive patrol near Scarborough --expert](https://www.gmanetwork.com/news/topstories/nation/907834/china-monster-intrusive-patrol-near-scarborough/story/)
 append_entries: 3
 Finish: 2024-05-24 02:26:20.323971
+------------------------------------------------------
+Started: 2024-05-24 04:15:07.115312
+Existing_entries: 1003
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 250
+Summarized using GPT-3.5-turbo
+Append: [China's second day of war games around Taiwan tests ability to 'seize power'](https://www.gmanetwork.com/news/topstories/world/907844/china-war-games-taiwan/story/)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [Teodoro: China"s order to arrest SCS 'tresspassers" a provocation](https://www.gmanetwork.com/news/topstories/nation/907842/teodoro-china-s-order-to-arrest-scs-tresspassers-a-provocation/story/)
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [Misuari convicted of graft over 'ghost' textbook purchases](https://www.gmanetwork.com/news/topstories/nation/907839/misuari-convicted-graft/story/)
+append_entries: 3
+Finish: 2024-05-24 04:15:17.159835
