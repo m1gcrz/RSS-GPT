@@ -10777,3 +10777,19 @@ Append: [SC voids deportation, orders release of elderly Fil-Am](https://www.gma
 Append: ['High-risk' emergency response protocols activated in 4 regions due to Aghon](https://www.gmanetwork.com/news/topstories/nation/907903/high-risk-emergency-response-protocols-activated-in-4-regions-due-to-aghon/story/)
 append_entries: 5
 Finish: 2024-05-24 14:12:01.241720
+------------------------------------------------------
+Started: 2024-05-24 16:13:32.519932
+Existing_entries: 1005
+Fetching from https://data.gmanetwork.com/gno/rss/news/feed.xml
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [Babaeng opisyal ng LTO, patay sa ambush sa QC](https://www.gmanetwork.com/news/topstories/ulatfilipino/907919/babaeng-opisyal-ng-lto-patay-sa-ambush-sa-qc/story/)
+Token length: 239
+Summarized using GPT-3.5-turbo
+Append: [Masinloc fisherman: You know us during elections, not when problems arise](https://www.gmanetwork.com/news/topstories/nation/907918/bajo-de-masinloc-fisherman-to-politicians-you-know-us-during-elections/story/)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [Barangay chairman sa Muntinlupa, patay sa pamamaril](https://www.gmanetwork.com/news/topstories/ulatfilipino/907917/barangay-chairman-sa-muntinlupa-patay-sa-pamamaril/story/)
+Append: [World Court orders Israel to halt assault on Gaza's Rafah](https://www.gmanetwork.com/news/topstories/world/907915/world-court-orders-israel-to-halt-assault-on-gaza-s-rafah/story/)
+append_entries: 4
+Finish: 2024-05-24 16:13:43.763340
